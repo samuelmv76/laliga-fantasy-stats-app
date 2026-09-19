@@ -1,0 +1,765 @@
+{
+  "date": "2026-09-18",
+  "fixtures": {
+    "Alavés": [
+      {
+        "matchday": 7,
+        "opponent": "Athletic",
+        "home": false,
+        "kickoff": "2026-09-19T16:15:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Atlético",
+        "home": true,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Celta",
+        "home": false,
+        "kickoff": "2026-10-18T16:15:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Málaga",
+        "home": true,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Barcelona",
+        "home": false,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Sevilla",
+        "home": false,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Athletic": [
+      {
+        "matchday": 7,
+        "opponent": "Alavés",
+        "home": true,
+        "kickoff": "2026-09-19T16:15:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Rayo",
+        "home": false,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Valencia",
+        "home": false,
+        "kickoff": "2026-10-17T21:00:00+02:00"
+      },
+      {
+        "matchday": 6,
+        "opponent": "Levante",
+        "home": false,
+        "kickoff": "2026-10-21T20:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Getafe",
+        "home": true,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Real Sociedad",
+        "home": true,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      }
+    ],
+    "Atlético": [
+      {
+        "matchday": 7,
+        "opponent": "Real Madrid",
+        "home": true,
+        "kickoff": "2026-09-20T16:15:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Alavés",
+        "home": false,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Espanyol",
+        "home": false,
+        "kickoff": "2026-10-17T14:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Deportivo",
+        "home": true,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Levante",
+        "home": false,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Barcelona",
+        "home": true,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Barcelona": [
+      {
+        "matchday": 7,
+        "opponent": "Sevilla",
+        "home": false,
+        "kickoff": "2026-09-19T21:00:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Getafe",
+        "home": true,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Betis",
+        "home": false,
+        "kickoff": "2026-10-17T18:30:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Real Madrid",
+        "home": true,
+        "kickoff": "2026-10-25T21:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Alavés",
+        "home": true,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Atlético",
+        "home": false,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Betis": [
+      {
+        "matchday": 7,
+        "opponent": "Deportivo",
+        "home": false,
+        "kickoff": "2026-09-20T18:30:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Osasuna",
+        "home": true,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Barcelona",
+        "home": true,
+        "kickoff": "2026-10-17T18:30:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Celta",
+        "home": false,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Málaga",
+        "home": true,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Elche",
+        "home": false,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Celta": [
+      {
+        "matchday": 7,
+        "opponent": "Racing",
+        "home": true,
+        "kickoff": "2026-09-19T18:30:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Elche",
+        "home": false,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Alavés",
+        "home": true,
+        "kickoff": "2026-10-18T16:15:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Betis",
+        "home": true,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Rayo",
+        "home": false,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Levante",
+        "home": true,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Deportivo": [
+      {
+        "matchday": 7,
+        "opponent": "Betis",
+        "home": true,
+        "kickoff": "2026-09-20T18:30:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Real Sociedad",
+        "home": false,
+        "kickoff": "2026-10-11T16:15:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Levante",
+        "home": true,
+        "kickoff": "2026-10-16T21:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Atlético",
+        "home": false,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Osasuna",
+        "home": true,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Espanyol",
+        "home": false,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Elche": [
+      {
+        "matchday": 7,
+        "opponent": "Espanyol",
+        "home": false,
+        "kickoff": "2026-09-18T21:00:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Celta",
+        "home": true,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Villarreal",
+        "home": false,
+        "kickoff": "2026-10-17T16:15:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Rayo",
+        "home": false,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Valencia",
+        "home": true,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Betis",
+        "home": true,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Espanyol": [
+      {
+        "matchday": 7,
+        "opponent": "Elche",
+        "home": true,
+        "kickoff": "2026-09-18T21:00:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Málaga",
+        "home": false,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Atlético",
+        "home": true,
+        "kickoff": "2026-10-17T14:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Racing",
+        "home": false,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Villarreal",
+        "home": false,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Deportivo",
+        "home": true,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Getafe": [
+      {
+        "matchday": 7,
+        "opponent": "Málaga",
+        "home": true,
+        "kickoff": "2026-09-20T14:00:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Barcelona",
+        "home": false,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Rayo",
+        "home": true,
+        "kickoff": "2026-10-19T21:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Athletic",
+        "home": false,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Sevilla",
+        "home": true,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Villarreal",
+        "home": false,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Levante": [
+      {
+        "matchday": 7,
+        "opponent": "Villarreal",
+        "home": false,
+        "kickoff": "2026-09-20T18:30:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Sevilla",
+        "home": true,
+        "kickoff": "2026-10-12T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Deportivo",
+        "home": false,
+        "kickoff": "2026-10-16T21:00:00+02:00"
+      },
+      {
+        "matchday": 6,
+        "opponent": "Athletic",
+        "home": true,
+        "kickoff": "2026-10-21T20:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Real Sociedad",
+        "home": false,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Atlético",
+        "home": true,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      }
+    ],
+    "Málaga": [
+      {
+        "matchday": 7,
+        "opponent": "Getafe",
+        "home": false,
+        "kickoff": "2026-09-20T14:00:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Espanyol",
+        "home": true,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Real Sociedad",
+        "home": true,
+        "kickoff": "2026-10-18T18:30:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Alavés",
+        "home": false,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Betis",
+        "home": false,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Racing",
+        "home": true,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Osasuna": [
+      {
+        "matchday": 7,
+        "opponent": "Rayo",
+        "home": true,
+        "kickoff": "2026-09-19T14:00:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Betis",
+        "home": false,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Racing",
+        "home": true,
+        "kickoff": "2026-10-18T14:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Sevilla",
+        "home": false,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Deportivo",
+        "home": false,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Athletic",
+        "home": true,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Racing": [
+      {
+        "matchday": 7,
+        "opponent": "Celta",
+        "home": false,
+        "kickoff": "2026-09-19T18:30:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Valencia",
+        "home": true,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Osasuna",
+        "home": false,
+        "kickoff": "2026-10-18T14:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Espanyol",
+        "home": true,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Real Madrid",
+        "home": true,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Málaga",
+        "home": false,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Rayo": [
+      {
+        "matchday": 7,
+        "opponent": "Osasuna",
+        "home": false,
+        "kickoff": "2026-09-19T14:00:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Athletic",
+        "home": true,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Getafe",
+        "home": false,
+        "kickoff": "2026-10-19T21:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Elche",
+        "home": true,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Celta",
+        "home": true,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Real Sociedad",
+        "home": false,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Real Madrid": [
+      {
+        "matchday": 7,
+        "opponent": "Atlético",
+        "home": false,
+        "kickoff": "2026-09-20T16:15:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Villarreal",
+        "home": true,
+        "kickoff": "2026-10-10T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Sevilla",
+        "home": true,
+        "kickoff": "2026-10-18T21:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Barcelona",
+        "home": false,
+        "kickoff": "2026-10-25T21:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Racing",
+        "home": false,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Valencia",
+        "home": false,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Real Sociedad": [
+      {
+        "matchday": 7,
+        "opponent": "Valencia",
+        "home": false,
+        "kickoff": "2026-09-20T21:00:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Deportivo",
+        "home": true,
+        "kickoff": "2026-10-11T16:15:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Málaga",
+        "home": false,
+        "kickoff": "2026-10-18T18:30:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Levante",
+        "home": true,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Athletic",
+        "home": false,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Rayo",
+        "home": true,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Sevilla": [
+      {
+        "matchday": 7,
+        "opponent": "Barcelona",
+        "home": true,
+        "kickoff": "2026-09-19T21:00:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Levante",
+        "home": false,
+        "kickoff": "2026-10-12T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Real Madrid",
+        "home": false,
+        "kickoff": "2026-10-18T21:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Osasuna",
+        "home": true,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Getafe",
+        "home": false,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Alavés",
+        "home": true,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Valencia": [
+      {
+        "matchday": 7,
+        "opponent": "Real Sociedad",
+        "home": true,
+        "kickoff": "2026-09-20T21:00:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Racing",
+        "home": false,
+        "kickoff": "2026-10-11T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Athletic",
+        "home": true,
+        "kickoff": "2026-10-17T21:00:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Villarreal",
+        "home": true,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Elche",
+        "home": false,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Real Madrid",
+        "home": true,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ],
+    "Villarreal": [
+      {
+        "matchday": 7,
+        "opponent": "Levante",
+        "home": true,
+        "kickoff": "2026-09-20T18:30:00+02:00"
+      },
+      {
+        "matchday": 8,
+        "opponent": "Real Madrid",
+        "home": false,
+        "kickoff": "2026-10-10T21:00:00+02:00"
+      },
+      {
+        "matchday": 9,
+        "opponent": "Elche",
+        "home": true,
+        "kickoff": "2026-10-17T16:15:00+02:00"
+      },
+      {
+        "matchday": 10,
+        "opponent": "Valencia",
+        "home": false,
+        "kickoff": "2026-10-25T20:00:00+01:00"
+      },
+      {
+        "matchday": 11,
+        "opponent": "Espanyol",
+        "home": true,
+        "kickoff": "2026-11-01T20:00:00+01:00"
+      },
+      {
+        "matchday": 12,
+        "opponent": "Getafe",
+        "home": true,
+        "kickoff": "2026-11-08T20:00:00+01:00"
+      }
+    ]
+  }
+}

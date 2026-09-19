@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-19",
+  "source": "https://www.football-data.co.uk/fixtures.csv",
+  "matches": [
+    {
+      "kickoff": "2026-09-18T21:00:00+02:00",
+      "date": "2026-09-18",
+      "home": "Espanyol",
+      "away": "Elche",
+      "odds": {
+        "home": 1.8,
+        "draw": 3.59,
+        "away": 4.41
+      }
+    },
+    {
+      "kickoff": "2026-09-19T14:00:00+02:00",
+      "date": "2026-09-19",
+      "home": "Osasuna",
+      "away": "Rayo Vallecano",
+      "odds": {
+        "home": 2.39,
+        "draw": 3.25,
+        "away": 2.99
+      }
+    },
+    {
+      "kickoff": "2026-09-19T16:15:00+02:00",
+      "date": "2026-09-19",
+      "home": "Athletic",
+      "away": "Alavés",
+      "odds": {
+        "home": 1.63,
+        "draw": 3.87,
+        "away": 5.26
+      }
+    },
+    {
+      "kickoff": "2026-09-19T18:30:00+02:00",
+      "date": "2026-09-19",
+      "home": "Celta",
+      "away": "Santander",
+      "odds": {
+        "home": 1.81,
+        "draw": 3.85,
+        "away": 4.02
+      }
+    },
+    {
+      "kickoff": "2026-09-19T21:00:00+02:00",
+      "date": "2026-09-19",
+      "home": "Sevilla",
+      "away": "Barcelona",
+      "odds": {
+        "home": 11.92,
+        "draw": 7.42,
+        "away": 1.19
+      }
+    },
+    {
+      "kickoff": "2026-09-20T14:00:00+02:00",
+      "date": "2026-09-20",
+      "home": "Getafe",
+      "away": "Málaga",
+      "odds": {
+        "home": 2.02,
+        "draw": 3.03,
+        "away": 4.06
+      }
+    },
+    {
+      "kickoff": "2026-09-20T16:15:00+02:00",
+      "date": "2026-09-20",
+      "home": "Atlético",
+      "away": "Real Madrid",
+      "odds": {
+        "home": 3.43,
+        "draw": 3.8,
+        "away": 1.95
+      }
+    },
+    {
+      "kickoff": "2026-09-20T18:30:00+02:00",
+      "date": "2026-09-20",
+      "home": "Deportivo",
+      "away": "Betis",
+      "odds": {
+        "home": 3.32,
+        "draw": 3.51,
+        "away": 2.07
+      }
+    },
+    {
+      "kickoff": "2026-09-20T18:30:00+02:00",
+      "date": "2026-09-20",
+      "home": "Villarreal",
+      "away": "Levante",
+      "odds": {
+        "home": 1.49,
+        "draw": 4.6,
+        "away": 5.53
+      }
+    },
+    {
+      "kickoff": "2026-09-20T21:00:00+02:00",
+      "date": "2026-09-20",
+      "home": "Valencia",
+      "away": "Real Sociedad",
+      "odds": {
+        "home": 2.68,
+        "draw": 3.35,
+        "away": 2.52
+      }
+    }
+  ]
+}

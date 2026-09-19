@@ -1,0 +1,6341 @@
+{
+  "date": "2026-09-18",
+  "players": [
+    {
+      "slug": "10476",
+      "stats": {
+        "minutes": 497,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9897",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12925",
+      "stats": {
+        "minutes": 96,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3802",
+      "stats": {
+        "minutes": 6,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15127",
+      "stats": {
+        "minutes": 472,
+        "goals": 0,
+        "assists": 3,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8737",
+      "stats": {
+        "minutes": 513,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1059",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 1,
+        "saves": 17,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2759",
+      "stats": {
+        "minutes": 111,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10448",
+      "stats": {
+        "minutes": 65,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1778",
+      "stats": {
+        "minutes": 281,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15133",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7902",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16920",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "189",
+      "stats": {
+        "minutes": 418,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5124",
+      "stats": {
+        "minutes": 406,
+        "goals": 4,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3226",
+      "stats": {
+        "minutes": 260,
+        "goals": 3,
+        "assists": 3,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8080",
+      "stats": {
+        "minutes": 12,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16186",
+      "stats": {
+        "minutes": 148,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12355",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9909",
+      "stats": {
+        "minutes": 495,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14979",
+      "stats": {
+        "minutes": 146,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10258",
+      "stats": {
+        "minutes": 495,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11719",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5032",
+      "stats": {
+        "minutes": 323,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17284",
+      "stats": {
+        "minutes": 529,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16931",
+      "stats": {
+        "minutes": 11,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14935",
+      "stats": {
+        "minutes": 128,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11688",
+      "stats": {
+        "minutes": 21,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7916",
+      "stats": {
+        "minutes": 208,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15409",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3204",
+      "stats": {
+        "minutes": 255,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10214",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11983",
+      "stats": {
+        "minutes": 10,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "697",
+      "stats": {
+        "minutes": 393,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10213",
+      "stats": {
+        "minutes": 373,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7917",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5859",
+      "stats": {
+        "minutes": 178,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11677",
+      "stats": {
+        "minutes": 107,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16350",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1934",
+      "stats": {
+        "minutes": 325,
+        "goals": 1,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "44",
+      "stats": {
+        "minutes": 195,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7638",
+      "stats": {
+        "minutes": 296,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16229",
+      "stats": {
+        "minutes": 125,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13830",
+      "stats": {
+        "minutes": 43,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12605",
+      "stats": {
+        "minutes": 152,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7920",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8693",
+      "stats": {
+        "minutes": 274,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7006",
+      "stats": {
+        "minutes": 424,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14017",
+      "stats": {
+        "minutes": 206,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7293",
+      "stats": {
+        "minutes": 240,
+        "goals": 2,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16810",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3693",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 17,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1972",
+      "stats": {
+        "minutes": 315,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "735",
+      "stats": {
+        "minutes": 280,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 2,
+        "red": 1
+      }
+    },
+    {
+      "slug": "4434",
+      "stats": {
+        "minutes": 434,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7645",
+      "stats": {
+        "minutes": 386,
+        "goals": 4,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2771",
+      "stats": {
+        "minutes": 444,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11579",
+      "stats": {
+        "minutes": 150,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9755",
+      "stats": {
+        "minutes": 56,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6310",
+      "stats": {
+        "minutes": 189,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11861",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5995",
+      "stats": {
+        "minutes": 456,
+        "goals": 0,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9276",
+      "stats": {
+        "minutes": 385,
+        "goals": 2,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1826",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 14,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12647",
+      "stats": {
+        "minutes": 137,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9573",
+      "stats": {
+        "minutes": 98,
+        "goals": 2,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "00",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18213",
+      "stats": {
+        "minutes": 45,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "775",
+      "stats": {
+        "minutes": 237,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5942",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10287",
+      "stats": {
+        "minutes": 57,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6337",
+      "stats": {
+        "minutes": 377,
+        "goals": 2,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "63",
+      "stats": {
+        "minutes": 314,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9823",
+      "stats": {
+        "minutes": 358,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1931",
+      "stats": {
+        "minutes": 374,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17529",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10393",
+      "stats": {
+        "minutes": 341,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15572",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10005",
+      "stats": {
+        "minutes": 295,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6002",
+      "stats": {
+        "minutes": 255,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 1
+      }
+    },
+    {
+      "slug": "10237",
+      "stats": {
+        "minutes": 107,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15422",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9316",
+      "stats": {
+        "minutes": 13,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2417",
+      "stats": {
+        "minutes": 344,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7595",
+      "stats": {
+        "minutes": 308,
+        "goals": 0,
+        "assists": 4,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18240",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2288",
+      "stats": {
+        "minutes": 248,
+        "goals": 0,
+        "assists": 3,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3589",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7542",
+      "stats": {
+        "minutes": 377,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11709",
+      "stats": {
+        "minutes": 371,
+        "goals": 4,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3724",
+      "stats": {
+        "minutes": 32,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12641",
+      "stats": {
+        "minutes": 405,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17663",
+      "stats": {
+        "minutes": 5,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7279",
+      "stats": {
+        "minutes": 495,
+        "goals": 0,
+        "assists": 0,
+        "saves": 11,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1882",
+      "stats": {
+        "minutes": 119,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6674",
+      "stats": {
+        "minutes": 174,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8395",
+      "stats": {
+        "minutes": 232,
+        "goals": 2,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11520",
+      "stats": {
+        "minutes": 489,
+        "goals": 7,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13864",
+      "stats": {
+        "minutes": 288,
+        "goals": 0,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9273",
+      "stats": {
+        "minutes": 74,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11706",
+      "stats": {
+        "minutes": 331,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7257",
+      "stats": {
+        "minutes": 411,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "4288",
+      "stats": {
+        "minutes": 474,
+        "goals": 9,
+        "assists": 3,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2733",
+      "stats": {
+        "minutes": 266,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2534",
+      "stats": {
+        "minutes": 45,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16765",
+      "stats": {
+        "minutes": 439,
+        "goals": 1,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9750",
+      "stats": {
+        "minutes": 153,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6393",
+      "stats": {
+        "minutes": 31,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3686",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 25,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10233",
+      "stats": {
+        "minutes": 115,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8405",
+      "stats": {
+        "minutes": 462,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5546",
+      "stats": {
+        "minutes": 352,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1062",
+      "stats": {
+        "minutes": 64,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7554",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "707",
+      "stats": {
+        "minutes": 128,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15736",
+      "stats": {
+        "minutes": 384,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6392",
+      "stats": {
+        "minutes": 392,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3717",
+      "stats": {
+        "minutes": 7,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2153",
+      "stats": {
+        "minutes": 425,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7201",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "336",
+      "stats": {
+        "minutes": 296,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16154",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "4620",
+      "stats": {
+        "minutes": 148,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14135",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "322",
+      "stats": {
+        "minutes": 322,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3215",
+      "stats": {
+        "minutes": 336,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11813",
+      "stats": {
+        "minutes": 450,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15696",
+      "stats": {
+        "minutes": 262,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2632",
+      "stats": {
+        "minutes": 375,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13822",
+      "stats": {
+        "minutes": 153,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6450",
+      "stats": {
+        "minutes": 295,
+        "goals": 2,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7589",
+      "stats": {
+        "minutes": 170,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16203",
+      "stats": {
+        "minutes": 180,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12420",
+      "stats": {
+        "minutes": 45,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6885",
+      "stats": {
+        "minutes": 166,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9012",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11767",
+      "stats": {
+        "minutes": 173,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16802",
+      "stats": {
+        "minutes": 62,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1945",
+      "stats": {
+        "minutes": 22,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9612",
+      "stats": {
+        "minutes": 219,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9638",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14199",
+      "stats": {
+        "minutes": 66,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7842",
+      "stats": {
+        "minutes": 324,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9740",
+      "stats": {
+        "minutes": 189,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16803",
+      "stats": {
+        "minutes": 17,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9744",
+      "stats": {
+        "minutes": 188,
+        "goals": 0,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "175",
+      "stats": {
+        "minutes": 221,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8082",
+      "stats": {
+        "minutes": 402,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5978",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 16,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3255",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6487",
+      "stats": {
+        "minutes": 204,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12534",
+      "stats": {
+        "minutes": 232,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13035",
+      "stats": {
+        "minutes": 329,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14980",
+      "stats": {
+        "minutes": 152,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "4397",
+      "stats": {
+        "minutes": 410,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 2,
+        "red": 1
+      }
+    },
+    {
+      "slug": "13808",
+      "stats": {
+        "minutes": 495,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10822",
+      "stats": {
+        "minutes": 201,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13608",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7199",
+      "stats": {
+        "minutes": 413,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10207",
+      "stats": {
+        "minutes": 245,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13036",
+      "stats": {
+        "minutes": 495,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "972",
+      "stats": {
+        "minutes": 99,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10357",
+      "stats": {
+        "minutes": 241,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 2,
+        "red": 1
+      }
+    },
+    {
+      "slug": "3612",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3605",
+      "stats": {
+        "minutes": 58,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 1
+      }
+    },
+    {
+      "slug": "9854",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16863",
+      "stats": {
+        "minutes": 327,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18030",
+      "stats": {
+        "minutes": 197,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13975",
+      "stats": {
+        "minutes": 49,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13972",
+      "stats": {
+        "minutes": 60,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "698",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10473",
+      "stats": {
+        "minutes": 480,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15351",
+      "stats": {
+        "minutes": 162,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14876",
+      "stats": {
+        "minutes": 6,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9405",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 21,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11198",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16099",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9772",
+      "stats": {
+        "minutes": 370,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10217",
+      "stats": {
+        "minutes": 86,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8712",
+      "stats": {
+        "minutes": 415,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10478",
+      "stats": {
+        "minutes": 196,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3414",
+      "stats": {
+        "minutes": 534,
+        "goals": 5,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7309",
+      "stats": {
+        "minutes": 172,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18017",
+      "stats": {
+        "minutes": 27,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "392",
+      "stats": {
+        "minutes": 442,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13974",
+      "stats": {
+        "minutes": 149,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15164",
+      "stats": {
+        "minutes": 73,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14118",
+      "stats": {
+        "minutes": 188,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17151",
+      "stats": {
+        "minutes": 148,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9759",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18021",
+      "stats": {
+        "minutes": 10,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12878",
+      "stats": {
+        "minutes": 500,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 14,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8816",
+      "stats": {
+        "minutes": 270,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 9,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2727",
+      "stats": {
+        "minutes": 121,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11214",
+      "stats": {
+        "minutes": 217,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15505",
+      "stats": {
+        "minutes": 319,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 10,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7081",
+      "stats": {
+        "minutes": 407,
+        "goals": 3,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 11,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7658",
+      "stats": {
+        "minutes": 478,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 14,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5227",
+      "stats": {
+        "minutes": 511,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 15,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5194",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17495",
+      "stats": {
+        "minutes": 219,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1859",
+      "stats": {
+        "minutes": 28,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17248",
+      "stats": {
+        "minutes": 143,
+        "goals": 0,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10358",
+      "stats": {
+        "minutes": 255,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13883",
+      "stats": {
+        "minutes": 161,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14115",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9161",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 14,
+        "conceded": 16,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12990",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "404",
+      "stats": {
+        "minutes": 161,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14377",
+      "stats": {
+        "minutes": 190,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9695",
+      "stats": {
+        "minutes": 38,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6882",
+      "stats": {
+        "minutes": 383,
+        "goals": 0,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3427",
+      "stats": {
+        "minutes": 91,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8273",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 16,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12891",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17445",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11863",
+      "stats": {
+        "minutes": 326,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10219",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9779",
+      "stats": {
+        "minutes": 72,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16308",
+      "stats": {
+        "minutes": 340,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3738",
+      "stats": {
+        "minutes": 464,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15957",
+      "stats": {
+        "minutes": 173,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14024",
+      "stats": {
+        "minutes": 466,
+        "goals": 0,
+        "assists": 4,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9850",
+      "stats": {
+        "minutes": 20,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14928",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "582",
+      "stats": {
+        "minutes": 270,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10893",
+      "stats": {
+        "minutes": 168,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3759",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 19,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10220",
+      "stats": {
+        "minutes": 531,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 1
+      }
+    },
+    {
+      "slug": "1927",
+      "stats": {
+        "minutes": 44,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3879",
+      "stats": {
+        "minutes": 42,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11467",
+      "stats": {
+        "minutes": 95,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12918",
+      "stats": {
+        "minutes": 110,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9987",
+      "stats": {
+        "minutes": 521,
+        "goals": 6,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15316",
+      "stats": {
+        "minutes": 490,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16202",
+      "stats": {
+        "minutes": 408,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3785",
+      "stats": {
+        "minutes": 355,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8228",
+      "stats": {
+        "minutes": 395,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13119",
+      "stats": {
+        "minutes": 117,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5083",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12917",
+      "stats": {
+        "minutes": 61,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11916",
+      "stats": {
+        "minutes": 379,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1989",
+      "stats": {
+        "minutes": 6,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3881",
+      "stats": {
+        "minutes": 530,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1919",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 19,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16004",
+      "stats": {
+        "minutes": 92,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3751",
+      "stats": {
+        "minutes": 450,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7995",
+      "stats": {
+        "minutes": 260,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8782",
+      "stats": {
+        "minutes": 183,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14816",
+      "stats": {
+        "minutes": 18,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13877",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "899",
+      "stats": {
+        "minutes": 405,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12539",
+      "stats": {
+        "minutes": 7,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3178",
+      "stats": {
+        "minutes": 138,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 1
+      }
+    },
+    {
+      "slug": "11202",
+      "stats": {
+        "minutes": 331,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 4,
+        "red": 1
+      }
+    },
+    {
+      "slug": "8496",
+      "stats": {
+        "minutes": 451,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7028",
+      "stats": {
+        "minutes": 285,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10463",
+      "stats": {
+        "minutes": 536,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8944",
+      "stats": {
+        "minutes": 449,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11905",
+      "stats": {
+        "minutes": 107,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17161",
+      "stats": {
+        "minutes": 121,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14210",
+      "stats": {
+        "minutes": 426,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 2,
+        "red": 1
+      }
+    },
+    {
+      "slug": "6346",
+      "stats": {
+        "minutes": 430,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1566",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 9,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18029",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15089",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8646",
+      "stats": {
+        "minutes": 45,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12598",
+      "stats": {
+        "minutes": 95,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18006",
+      "stats": {
+        "minutes": 307,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8988",
+      "stats": {
+        "minutes": 100,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18406",
+      "stats": {
+        "minutes": 20,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18027",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7629",
+      "stats": {
+        "minutes": 314,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "4976",
+      "stats": {
+        "minutes": 177,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8961",
+      "stats": {
+        "minutes": 413,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12879",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16022",
+      "stats": {
+        "minutes": 15,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10326",
+      "stats": {
+        "minutes": 65,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18241",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6605",
+      "stats": {
+        "minutes": 430,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18028",
+      "stats": {
+        "minutes": 27,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1743",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 19,
+        "conceded": 9,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16020",
+      "stats": {
+        "minutes": 293,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8088",
+      "stats": {
+        "minutes": 390,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11807",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13145",
+      "stats": {
+        "minutes": 66,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11998",
+      "stats": {
+        "minutes": 58,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9157",
+      "stats": {
+        "minutes": 353,
+        "goals": 3,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17116",
+      "stats": {
+        "minutes": 224,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7644",
+      "stats": {
+        "minutes": 197,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18294",
+      "stats": {
+        "minutes": 31,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14183",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12475",
+      "stats": {
+        "minutes": 24,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10353",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6973",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 19,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15417",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10860",
+      "stats": {
+        "minutes": 313,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13978",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13982",
+      "stats": {
+        "minutes": 269,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14096",
+      "stats": {
+        "minutes": 450,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16286",
+      "stats": {
+        "minutes": 295,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8780",
+      "stats": {
+        "minutes": 395,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3174",
+      "stats": {
+        "minutes": 377,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6814",
+      "stats": {
+        "minutes": 11,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9321",
+      "stats": {
+        "minutes": 35,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13983",
+      "stats": {
+        "minutes": 358,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8536",
+      "stats": {
+        "minutes": 5,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6050",
+      "stats": {
+        "minutes": 290,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8250",
+      "stats": {
+        "minutes": 225,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18378",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5671",
+      "stats": {
+        "minutes": 4,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10823",
+      "stats": {
+        "minutes": 197,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7686",
+      "stats": {
+        "minutes": 6,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7614",
+      "stats": {
+        "minutes": 193,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15344",
+      "stats": {
+        "minutes": 426,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15336",
+      "stats": {
+        "minutes": 87,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7703",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11230",
+      "stats": {
+        "minutes": 495,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 10,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7203",
+      "stats": {
+        "minutes": 150,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "829",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 7,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6493",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6635",
+      "stats": {
+        "minutes": 413,
+        "goals": 4,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 9,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18053",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12453",
+      "stats": {
+        "minutes": 202,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8695",
+      "stats": {
+        "minutes": 201,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3235",
+      "stats": {
+        "minutes": 45,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11362",
+      "stats": {
+        "minutes": 385,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12823",
+      "stats": {
+        "minutes": 472,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 10,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7204",
+      "stats": {
+        "minutes": 425,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 9,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10208",
+      "stats": {
+        "minutes": 233,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7082",
+      "stats": {
+        "minutes": 185,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3206",
+      "stats": {
+        "minutes": 182,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1928",
+      "stats": {
+        "minutes": 210,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16158",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "841",
+      "stats": {
+        "minutes": 238,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15424",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7027",
+      "stats": {
+        "minutes": 339,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 10,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7870",
+      "stats": {
+        "minutes": 139,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18316",
+      "stats": {
+        "minutes": 211,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8485",
+      "stats": {
+        "minutes": 36,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "660",
+      "stats": {
+        "minutes": 299,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6611",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 6,
+        "conceded": 8,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16982",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3246",
+      "stats": {
+        "minutes": 91,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10336",
+      "stats": {
+        "minutes": 449,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 9,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10533",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6890",
+      "stats": {
+        "minutes": 238,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3671",
+      "stats": {
+        "minutes": 218,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14866",
+      "stats": {
+        "minutes": 14,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10209",
+      "stats": {
+        "minutes": 246,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 11,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17148",
+      "stats": {
+        "minutes": 59,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12079",
+      "stats": {
+        "minutes": 267,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17130",
+      "stats": {
+        "minutes": 49,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10338",
+      "stats": {
+        "minutes": 77,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6442",
+      "stats": {
+        "minutes": 453,
+        "goals": 0,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 10,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6563",
+      "stats": {
+        "minutes": 315,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11286",
+      "stats": {
+        "minutes": 126,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14105",
+      "stats": {
+        "minutes": 455,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 10,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9930",
+      "stats": {
+        "minutes": 62,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9213",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 26,
+        "conceded": 16,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14155",
+      "stats": {
+        "minutes": 152,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3836",
+      "stats": {
+        "minutes": 396,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 15,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11857",
+      "stats": {
+        "minutes": 259,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 13,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8972",
+      "stats": {
+        "minutes": 292,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16760",
+      "stats": {
+        "minutes": 73,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "132",
+      "stats": {
+        "minutes": 476,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 15,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16262",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15033",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18282",
+      "stats": {
+        "minutes": 312,
+        "goals": 6,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5587",
+      "stats": {
+        "minutes": 308,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 9,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13813",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11758",
+      "stats": {
+        "minutes": 107,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "867",
+      "stats": {
+        "minutes": 442,
+        "goals": 2,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 14,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6560",
+      "stats": {
+        "minutes": 450,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 10,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12651",
+      "stats": {
+        "minutes": 149,
+        "goals": 0,
+        "assists": 0,
+        "saves": 3,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7570",
+      "stats": {
+        "minutes": 211,
+        "goals": 0,
+        "assists": 0,
+        "saves": 8,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2413",
+      "stats": {
+        "minutes": 180,
+        "goals": 0,
+        "assists": 0,
+        "saves": 10,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "863",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 15,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10210",
+      "stats": {
+        "minutes": 150,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 1
+      }
+    },
+    {
+      "slug": "8337",
+      "stats": {
+        "minutes": 181,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18273",
+      "stats": {
+        "minutes": 186,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6957",
+      "stats": {
+        "minutes": 79,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7251",
+      "stats": {
+        "minutes": 208,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6633",
+      "stats": {
+        "minutes": 300,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 1
+      }
+    },
+    {
+      "slug": "14004",
+      "stats": {
+        "minutes": 121,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7100",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6889",
+      "stats": {
+        "minutes": 313,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 10,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7307",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 15,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3623",
+      "stats": {
+        "minutes": 293,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 9,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13801",
+      "stats": {
+        "minutes": 67,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6853",
+      "stats": {
+        "minutes": 154,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12608",
+      "stats": {
+        "minutes": 24,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16146",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6562",
+      "stats": {
+        "minutes": 396,
+        "goals": 6,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 12,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1881",
+      "stats": {
+        "minutes": 465,
+        "goals": 0,
+        "assists": 3,
+        "saves": 0,
+        "conceded": 12,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10176",
+      "stats": {
+        "minutes": 201,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5526",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2536",
+      "stats": {
+        "minutes": 180,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11439",
+      "stats": {
+        "minutes": 293,
+        "goals": 1,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9669",
+      "stats": {
+        "minutes": 107,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3431",
+      "stats": {
+        "minutes": 273,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5035",
+      "stats": {
+        "minutes": 100,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12870",
+      "stats": {
+        "minutes": 29,
+        "goals": 2,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11830",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6055",
+      "stats": {
+        "minutes": 322,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8479",
+      "stats": {
+        "minutes": 222,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13564",
+      "stats": {
+        "minutes": 5,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3758",
+      "stats": {
+        "minutes": 472,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "4884",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16735",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8386",
+      "stats": {
+        "minutes": 445,
+        "goals": 3,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3429",
+      "stats": {
+        "minutes": 540,
+        "goals": 7,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11886",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5013",
+      "stats": {
+        "minutes": 341,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15227",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12639",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10767",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16237",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "59",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 16,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "4480",
+      "stats": {
+        "minutes": 214,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5565",
+      "stats": {
+        "minutes": 508,
+        "goals": 1,
+        "assists": 3,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15342",
+      "stats": {
+        "minutes": 249,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6394",
+      "stats": {
+        "minutes": 19,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11816",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "1975",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 0,
+        "saves": 19,
+        "conceded": 9,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6363",
+      "stats": {
+        "minutes": 286,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9011",
+      "stats": {
+        "minutes": 10,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8651",
+      "stats": {
+        "minutes": 257,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2799",
+      "stats": {
+        "minutes": 375,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2242",
+      "stats": {
+        "minutes": 178,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11577",
+      "stats": {
+        "minutes": 10,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2802",
+      "stats": {
+        "minutes": 394,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14021",
+      "stats": {
+        "minutes": 174,
+        "goals": 1,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12538",
+      "stats": {
+        "minutes": 506,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11683",
+      "stats": {
+        "minutes": 65,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11792",
+      "stats": {
+        "minutes": 393,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 1
+      }
+    },
+    {
+      "slug": "7725",
+      "stats": {
+        "minutes": 21,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8392",
+      "stats": {
+        "minutes": 463,
+        "goals": 2,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 11,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15273",
+      "stats": {
+        "minutes": 180,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15944",
+      "stats": {
+        "minutes": 147,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11684",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2675",
+      "stats": {
+        "minutes": 416,
+        "goals": 0,
+        "assists": 2,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10660",
+      "stats": {
+        "minutes": 282,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6180",
+      "stats": {
+        "minutes": 521,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 11,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7091",
+      "stats": {
+        "minutes": 222,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16155",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8679",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 8,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6446",
+      "stats": {
+        "minutes": 378,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8703",
+      "stats": {
+        "minutes": 11,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13888",
+      "stats": {
+        "minutes": 391,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18014",
+      "stats": {
+        "minutes": 212,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 1
+      }
+    },
+    {
+      "slug": "12042",
+      "stats": {
+        "minutes": 181,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8091",
+      "stats": {
+        "minutes": 162,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11554",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12358",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7786",
+      "stats": {
+        "minutes": 119,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12590",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11680",
+      "stats": {
+        "minutes": 190,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12596",
+      "stats": {
+        "minutes": 154,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3736",
+      "stats": {
+        "minutes": 338,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 3,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9317",
+      "stats": {
+        "minutes": 43,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8686",
+      "stats": {
+        "minutes": 540,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17129",
+      "stats": {
+        "minutes": 85,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9931",
+      "stats": {
+        "minutes": 447,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 1,
+        "red": 1
+      }
+    },
+    {
+      "slug": "18437",
+      "stats": {
+        "minutes": 194,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7249",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11180",
+      "stats": {
+        "minutes": 29,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "4208",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16236",
+      "stats": {
+        "minutes": 415,
+        "goals": 2,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13865",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6235",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 15,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10341",
+      "stats": {
+        "minutes": 157,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8634",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18314",
+      "stats": {
+        "minutes": 306,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9125",
+      "stats": {
+        "minutes": 21,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9670",
+      "stats": {
+        "minutes": 197,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "15928",
+      "stats": {
+        "minutes": 230,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9218",
+      "stats": {
+        "minutes": 241,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6174",
+      "stats": {
+        "minutes": 437,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9762",
+      "stats": {
+        "minutes": 330,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5080",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3732",
+      "stats": {
+        "minutes": 9,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12594",
+      "stats": {
+        "minutes": 220,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "943",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12025",
+      "stats": {
+        "minutes": 464,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 10,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7676",
+      "stats": {
+        "minutes": 246,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6580",
+      "stats": {
+        "minutes": 66,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5019",
+      "stats": {
+        "minutes": 178,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14034",
+      "stats": {
+        "minutes": 105,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18279",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9927",
+      "stats": {
+        "minutes": 472,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8684",
+      "stats": {
+        "minutes": 340,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "663",
+      "stats": {
+        "minutes": 277,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18018",
+      "stats": {
+        "minutes": 126,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18283",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "6665",
+      "stats": {
+        "minutes": 114,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3607",
+      "stats": {
+        "minutes": 286,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2663",
+      "stats": {
+        "minutes": 239,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "2715",
+      "stats": {
+        "minutes": 475,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18228",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "18031",
+      "stats": {
+        "minutes": 295,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "989",
+      "stats": {
+        "minutes": 540,
+        "goals": 0,
+        "assists": 0,
+        "saves": 19,
+        "conceded": 10,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8294",
+      "stats": {
+        "minutes": 160,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14022",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9990",
+      "stats": {
+        "minutes": 239,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17275",
+      "stats": {
+        "minutes": 137,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "4511",
+      "stats": {
+        "minutes": 220,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 4,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "16938",
+      "stats": {
+        "minutes": 47,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 1,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11172",
+      "stats": {
+        "minutes": 360,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12139",
+      "stats": {
+        "minutes": 368,
+        "goals": 1,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "843",
+      "stats": {
+        "minutes": 272,
+        "goals": 2,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9763",
+      "stats": {
+        "minutes": 55,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "4705",
+      "stats": {
+        "minutes": 270,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 5,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12354",
+      "stats": {
+        "minutes": 82,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14125",
+      "stats": {
+        "minutes": 360,
+        "goals": 0,
+        "assists": 0,
+        "saves": 6,
+        "conceded": 8,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "17695",
+      "stats": {
+        "minutes": 127,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "7209",
+      "stats": {
+        "minutes": 409,
+        "goals": 2,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 9,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "8413",
+      "stats": {
+        "minutes": 384,
+        "goals": 1,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12860",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "3106",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 10,
+        "conceded": 2,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10114",
+      "stats": {
+        "minutes": 450,
+        "goals": 0,
+        "assists": 1,
+        "saves": 0,
+        "conceded": 10,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "14812",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "5549",
+      "stats": {
+        "minutes": 318,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 8,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "11678",
+      "stats": {
+        "minutes": 313,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 7,
+        "yellow": 2,
+        "red": 0
+      }
+    },
+    {
+      "slug": "9989",
+      "stats": {
+        "minutes": 90,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "10638",
+      "stats": {
+        "minutes": 210,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 6,
+        "yellow": 1,
+        "red": 0
+      }
+    },
+    {
+      "slug": "13440",
+      "stats": {
+        "minutes": 59,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 3,
+        "yellow": 0,
+        "red": 0
+      }
+    },
+    {
+      "slug": "12634",
+      "stats": {
+        "minutes": 0,
+        "goals": 0,
+        "assists": 0,
+        "saves": 0,
+        "conceded": 0,
+        "yellow": 0,
+        "red": 0
+      }
+    }
+  ]
+}
