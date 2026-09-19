@@ -65,7 +65,16 @@ export function formatKickoff(date: Date): string {
   return `${weekday} ${formatDay(date)} ${time}`
 }
 
-// Texto de la píldora de la cabecera y su tooltip.
+// "sáb 10/10": el día sin la hora. Es lo que cabe en la etiqueta corta del
+// móvil, donde la jornada siguiente solo tiene que orientar, no dar la hora.
+export function formatKickoffDay(date: Date): string {
+  const weekday = date.toLocaleDateString('es-ES', { weekday: 'short' }).replace('.', '')
+  return `${weekday} ${formatDay(date)}`
+}
+
+// Texto de la píldora de la cabecera y su tooltip. `short` y `nextText` son la
+// versión de una sola línea para la barra del móvil: el texto largo mete dos
+// jornadas y cuatro fechas en 390 px y envuelve a tres líneas.
 export function matchdayLabel(window: MatchdayWindow | null) {
   if (!window) return null
   const { matchday } = window
@@ -83,6 +92,8 @@ export function matchdayLabel(window: MatchdayWindow | null) {
     return {
       matchday,
       text: `J${matchday} · en juego hasta ${end}${despues}`,
+      short: `J${matchday} en juego · hasta ${end}`,
+      nextText: window.next ? `J${window.next.matchday} · ${formatKickoffDay(window.next.start)}` : null,
       title:
         `Jornada ${matchday} en juego: empezó ${start}, último partido ${end}.` +
         (next ? ` La jornada ${next.matchday} empieza ${next.start}.` : ''),
@@ -95,12 +106,16 @@ export function matchdayLabel(window: MatchdayWindow | null) {
     return {
       matchday,
       text: `J${matchday} · ${start}`,
+      short: `J${matchday} · ${start}`,
+      nextText: null,
       title: `Jornada ${matchday}: ${start}.`,
     }
   }
   return {
     matchday,
     text: `J${matchday} · del ${start} al ${end}`,
+    short: `J${matchday} · desde ${start}`,
+    nextText: null,
     title: `Jornada ${matchday}: primer partido ${start}, último partido ${end}.`,
   }
 }

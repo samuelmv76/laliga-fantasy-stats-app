@@ -34,73 +34,93 @@ export default function App() {
 
   return (
     <div className="app">
-      <header className="glass sticky top-3 z-30 flex flex-wrap items-center justify-between gap-4 rounded-[18px] border border-hairline py-2 pr-2.5 pl-3 text-text shadow-card">
-        <div className="flex min-w-0 items-center gap-3.5">
+      {/* Barra de navegación. La coloca `.app-header` (App.css): en móvil es una
+          barra al estilo iOS de tres bandas —marca y acciones arriba, jornada
+          en una línea, pestañas a ancho completo— y desde 640px la tarjeta
+          flotante de siempre. Aquí solo va el aspecto de cada pieza. */}
+      <header className="app-header glass">
+        <div className="app-header__brand">
           <AppMark size={30} />
-          <span className="font-display text-[0.95rem] font-semibold tracking-[-0.01em] text-text">
+          <span className="truncate font-display text-[0.95rem] font-semibold tracking-[-0.01em] text-text">
             Fantasy <span className="font-medium text-muted">Stats</span>
           </span>
-          {nextMatch && (
-            <span
-              className="inline-flex max-w-full items-center gap-[7px] whitespace-nowrap rounded-full border border-hairline bg-ink-soft py-[5px] pr-2.5 pl-[9px] text-[0.72rem] font-semibold max-[560px]:whitespace-normal"
-              title={nextMatch.title}
-            >
-              <span className="live-dot" />
-              {nextMatch.text}
-            </span>
-          )}
         </div>
-        <div className="flex flex-wrap items-center gap-2.5">
-          <nav className="flex gap-[3px] rounded-[13px] border border-hairline bg-ink-soft p-[3px]" role="tablist">
+
+        {nextMatch && (
+          <div className="app-header__status text-[0.72rem] font-semibold" title={nextMatch.title}>
+            <span className="live-dot" />
+            {/* Una sola línea siempre: en móvil el resumen corto, en escritorio
+                el texto completo. Lo que no quepa se acorta, no envuelve. */}
+            <span className="truncate">
+              <span className="sm:hidden">{nextMatch.short}</span>
+              <span className="hidden sm:inline">{nextMatch.text}</span>
+            </span>
+            {nextMatch.nextText && (
+              <span className="ml-auto shrink-0 pl-2 font-medium text-muted sm:hidden">
+                {nextMatch.nextText}
+              </span>
+            )}
+          </div>
+        )}
+
+        <nav className="app-header__tabs" role="tablist">
+          <div className="flex gap-[3px] rounded-[13px] border border-hairline bg-ink-soft p-[3px]">
             {TABS.map((t) => (
               <button
                 key={t.id}
                 role="tab"
                 aria-selected={tab === t.id}
-                className={`relative cursor-pointer rounded-[9px] border-none px-4 py-2 font-body text-[0.86rem] font-semibold transition-colors duration-200 ${
+                className={`flex h-[34px] min-w-0 flex-1 basis-0 cursor-pointer items-center justify-center gap-1.5 rounded-[9px] border-none px-3 font-body text-[0.86rem] font-semibold transition-colors duration-200 sm:h-auto sm:flex-none sm:px-4 sm:py-2 ${
                   tab === t.id ? 'bg-gold text-turf-on shadow-card' : 'bg-transparent text-muted hover:text-text'
                 }`}
                 onClick={() => setTab(t.id)}
               >
-                {t.label}
+                <span className="truncate">{t.label}</span>
                 {t.id === 'equipo' && squad.length > 0 && (
-                  <span className="ml-1.5 tabular-nums opacity-70">{squad.length}</span>
+                  <span className="shrink-0 tabular-nums opacity-70">{squad.length}</span>
                 )}
               </button>
             ))}
-          </nav>
+          </div>
+        </nav>
+
+        <div className="app-header__actions">
+          {/* 44x44 de área táctil en móvil (el mínimo de Apple); en escritorio
+              vuelve al botón redondo de 34px con su filete. */}
           <button
             type="button"
-            className="flex size-[34px] cursor-pointer items-center justify-center rounded-full border border-hairline bg-ink-soft text-text transition-colors duration-200"
+            className="flex size-11 shrink-0 cursor-pointer items-center justify-center rounded-full border-0 bg-transparent text-text transition-colors duration-200 sm:size-[34px] sm:border sm:border-hairline sm:bg-ink-soft"
             onClick={toggleTheme}
             aria-label={theme === 'dark' ? 'Activar modo claro' : 'Activar modo oscuro'}
             aria-pressed={theme === 'dark'}
           >
             {theme === 'dark' ? (
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <circle cx="12" cy="12" r="4" />
                 <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41" />
               </svg>
             ) : (
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z" />
               </svg>
             )}
           </button>
           <Show when="signed-out">
             <SignInButton mode="modal">
-              <button type="button" className="btn btn-ghost">
+              <button type="button" className="btn btn-ghost shrink-0">
                 Iniciar sesión
               </button>
             </SignInButton>
           </Show>
           <Show when="signed-in">
-            <UserButton />
+            <span className="flex size-11 shrink-0 items-center justify-center sm:size-auto">
+              <UserButton />
+            </span>
           </Show>
         </div>
       </header>
 
-      <div className="grid items-end gap-7 px-1 pt-10 pb-[26px] max-[820px]:grid-cols-1 max-[820px]:items-start min-[821px]:grid-cols-[minmax(0,1.35fr)_minmax(280px,0.65fr)]">
+      <div className="grid items-end gap-7 px-1 pt-7 pb-[26px] sm:pt-10 max-[820px]:grid-cols-1 max-[820px]:items-start min-[821px]:grid-cols-[minmax(0,1.35fr)_minmax(280px,0.65fr)]">
         <div>
           <p className="m-0 mb-2.5 flex items-center gap-2.5 font-display text-[0.73rem] font-semibold uppercase tracking-[0.09em] text-text">
             Temporada 25/26

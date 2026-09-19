@@ -1,18 +1,130 @@
 /* Lo que queda aquí es lo que no se puede escribir como utilidad de Tailwind:
    el contenedor de la página, los fotogramas de las animaciones (las clases
-   `animate-[nombre_…]` de los componentes los buscan aquí) y el ajuste
-   responsive de la tabla del mercado, que coordina varias piezas a la vez.
+   `animate-[nombre_…]` de los componentes los buscan aquí) y las dos
+   colocaciones que coordinan varias piezas a la vez: la cabecera y la tabla
+   del mercado.
    El resto del diseño vive ya en las clases de cada componente. */
 
 .app {
+  /* El margen lateral y el superior son tokens porque la cabecera los necesita
+     en negativo para salirse a los bordes de la pantalla en móvil. */
+  --app-gutter: 20px;
+  --app-top: 22px;
   max-width: 1240px;
   margin: 0 auto;
-  padding: 22px 20px 56px;
+  padding: var(--app-top) var(--app-gutter) 56px;
 }
 
-@media (max-width: 600px) {
+/* 639px y no 600: así el corte coincide con el `sm:` de Tailwind (640px), que
+   es donde la cabecera cambia de colocación. */
+@media (max-width: 639px) {
   .app {
-    padding: 18px 14px 48px;
+    --app-gutter: 16px;
+    --app-top: 18px;
+    padding-bottom: 48px;
+  }
+}
+
+/* ---------- cabecera ---------- */
+
+/* Las mismas cuatro piezas, dos colocaciones. Hasta 640px es una barra de
+   navegación al estilo iOS: marca y acciones en una misma fila de 52px, la
+   jornada en una sola línea debajo y las pestañas a ancho completo, todo
+   pegado a los bordes de la pantalla. Desde 640px vuelve a ser la tarjeta
+   flotante de una sola fila.
+
+   Va en CSS y no en utilidades porque coloca cuatro piezas a la vez, y en
+   grid y no en flex a propósito: con `flex-wrap` la píldora de la jornada
+   empujaba al resto y el avatar acababa suelto en una tercera fila. Aquí cada
+   pieza tiene su hueco y lo que no cabe se acorta con puntos suspensivos. */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-areas:
+    'brand actions'
+    'status status'
+    'tabs tabs';
+  align-items: center;
+  margin: calc(var(--app-top) * -1) calc(var(--app-gutter) * -1) 0;
+  padding-top: env(safe-area-inset-top, 0px);
+  border-bottom: 1px solid var(--hairline);
+  color: var(--text);
+}
+
+.app-header__brand {
+  grid-area: brand;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  height: 52px;
+  padding-left: var(--app-gutter);
+}
+
+.app-header__actions {
+  grid-area: actions;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  height: 52px;
+  /* El botón de tema ya reserva 44px de área táctil, así que el margen óptico
+     lo da su propio hueco: el padding descuenta esa diferencia. */
+  padding-right: calc(var(--app-gutter) - 5px);
+}
+
+.app-header__status {
+  grid-area: status;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  min-width: 0;
+  height: 32px;
+  padding: 0 var(--app-gutter);
+  border-top: 1px solid var(--hairline);
+}
+
+.app-header__tabs {
+  grid-area: tabs;
+  padding: 8px var(--app-gutter) 10px;
+}
+
+@media (min-width: 640px) {
+  .app-header {
+    top: 12px;
+    grid-template-columns: auto auto minmax(0, 1fr) auto;
+    grid-template-areas: 'brand status tabs actions';
+    column-gap: 14px;
+    margin: 0;
+    padding: 8px 10px 8px 12px;
+    border: 1px solid var(--hairline);
+    border-radius: 18px;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .app-header__brand,
+  .app-header__actions {
+    height: auto;
+    padding: 0;
+  }
+
+  .app-header__actions {
+    gap: 10px;
+  }
+
+  .app-header__status {
+    height: auto;
+    padding: 5px 10px 5px 9px;
+    border: 1px solid var(--hairline);
+    border-radius: 999px;
+    background: var(--ink-soft);
+  }
+
+  .app-header__tabs {
+    justify-self: end;
+    padding: 0;
   }
 }
 
