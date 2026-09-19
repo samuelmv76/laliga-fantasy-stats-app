@@ -91,14 +91,24 @@
   padding: 8px var(--app-gutter) 10px;
 }
 
+/* Entre 640 y 1024px (tablets, y el iPad Mini en vertical) sigue sin haber
+   sitio para las cuatro piezas en una fila: la jornada y las pestañas se
+   montaban una encima de otra. Dos filas, cada pieza con su hueco: marca y
+   acciones arriba, jornada y pestañas abajo. */
 @media (min-width: 640px) {
   .app-header {
     top: 12px;
-    grid-template-columns: auto auto minmax(0, 1fr) auto;
-    grid-template-areas: 'brand status tabs actions';
+    /* La primera columna puede encogerse hasta cero (marca y jornada se
+       acortan con puntos suspensivos); la segunda nunca baja de lo que miden
+       las pestañas y las acciones, que es lo que antes provocaba el solape. */
+    grid-template-columns: minmax(0, auto) max-content;
+    grid-template-areas:
+      'brand actions'
+      'status tabs';
     column-gap: 14px;
+    row-gap: 8px;
     margin: 0;
-    padding: 8px 10px 8px 12px;
+    padding: 10px 12px;
     border: 1px solid var(--hairline);
     border-radius: 18px;
     box-shadow: var(--shadow-sm);
@@ -112,19 +122,34 @@
 
   .app-header__actions {
     gap: 10px;
+    justify-self: end;
   }
 
   .app-header__status {
     height: auto;
+    max-width: 100%;
     padding: 5px 10px 5px 9px;
     border: 1px solid var(--hairline);
     border-radius: 999px;
     background: var(--ink-soft);
+    justify-self: start;
   }
 
   .app-header__tabs {
     justify-self: end;
     padding: 0;
+  }
+}
+
+/* Desde 1024px ya caben las cuatro en una fila: la tarjeta flotante de
+   siempre. La columna de las pestañas no baja de su contenido y la de la
+   jornada es la que cede y se acorta. */
+@media (min-width: 1024px) {
+  .app-header {
+    grid-template-columns: auto minmax(0, auto) minmax(max-content, 1fr) auto;
+    grid-template-areas: 'brand status tabs actions';
+    row-gap: 0;
+    padding: 8px 10px 8px 12px;
   }
 }
 

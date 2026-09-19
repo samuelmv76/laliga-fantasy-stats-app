@@ -49,14 +49,15 @@ export default function App() {
         {nextMatch && (
           <div className="app-header__status text-[0.72rem] font-semibold" title={nextMatch.title}>
             <span className="live-dot" />
-            {/* Una sola línea siempre: en móvil el resumen corto, en escritorio
-                el texto completo. Lo que no quepa se acorta, no envuelve. */}
+            {/* Una sola línea siempre: el resumen corto hasta 1024px, el texto
+                completo solo cuando la cabecera vuelve a una fila. Lo que no
+                quepa se acorta, no envuelve. */}
             <span className="truncate">
-              <span className="sm:hidden">{nextMatch.short}</span>
-              <span className="hidden sm:inline">{nextMatch.text}</span>
+              <span className="lg:hidden">{nextMatch.short}</span>
+              <span className="hidden lg:inline">{nextMatch.text}</span>
             </span>
             {nextMatch.nextText && (
-              <span className="ml-auto shrink-0 pl-2 font-medium text-muted sm:hidden">
+              <span className="ml-auto shrink-0 pl-2 font-medium text-muted lg:hidden">
                 {nextMatch.nextText}
               </span>
             )}
