@@ -159,10 +159,11 @@ async function syncFixtures(calendario) {
     ADD COLUMN IF NOT EXISTS odds_home numeric,
     ADD COLUMN IF NOT EXISTS odds_draw numeric,
     ADD COLUMN IF NOT EXISTS odds_away numeric`
-  // El calendario no acumula histórico (solo próximos partidos), así que
-  // se sustituye entero en vez de acumularse, igual que build_calendar.py.
+  // El scraper solo trae partidos por jugar, así que se sustituyen esos y se
+  // dejan los ya jugados: son los que dicen cuándo empezó la jornada en curso
+  // (si se borraran, el front solo vería lo que queda de ella).
   await sql.transaction([
-    sql`DELETE FROM team_fixtures`,
+    sql`DELETE FROM team_fixtures WHERE kickoff > now()`,
     ...(teams.length > 0
       ? [
           sql`

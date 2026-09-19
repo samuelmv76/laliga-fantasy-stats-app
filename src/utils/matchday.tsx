@@ -3,10 +3,9 @@
 import { formatDay } from './format.tsx'
 import type { FixturesByTeam } from '../types.tsx'
 
-// Una jornada completa de LaLiga son 10 partidos, y el calendario guarda cada
-// partido dos veces (una por equipo). No se cablea ese 20: se toma el mayor
-// número de entradas que tenga cualquier jornada del calendario, porque es el
-// mismo dato y así no se rompe si algún día cambia el número de equipos.
+// Horas de partido agrupadas por jornada. El calendario guarda cada partido
+// dos veces (una por equipo), pero aquí solo importan el primero y el último,
+// así que da igual que vengan repetidas.
 function entriesByMatchday(fixtures?: FixturesByTeam): Record<number, Date[]> {
   const byMatchday: Record<number, Date[]> = {}
   for (const fixture of Object.values(fixtures ?? {}).flat()) {
@@ -19,10 +18,9 @@ function entriesByMatchday(fixtures?: FixturesByTeam): Record<number, Date[]> {
 
 // { matchday, start, end, started, next } de la jornada en curso o la que
 // viene, o null si no hay calendario. `started` es true cuando la jornada ya ha
-// empezado: /api/fixtures solo devuelve los partidos que quedan, así que en ese
-// caso `start` no es el principio real de la jornada y no se debe enseñar como
-// tal. `next` es { matchday, start } de la jornada siguiente, para poder decir
-// cuándo arranca la próxima mientras se juega esta.
+// empezado, para decir "en juego hasta" en vez de "empieza". `next` es
+// { matchday, start } de la jornada siguiente, para poder decir cuándo arranca
+// la próxima mientras se juega esta.
 export interface MatchdayWindow {
   matchday: number
   start: Date
@@ -31,27 +29,30 @@ export interface MatchdayWindow {
   next: { matchday: number; start: Date } | null
 }
 
-export function nextMatchdayWindow(fixtures?: FixturesByTeam): MatchdayWindow | null {
+export function nextMatchdayWindow(fixtures?: FixturesByTeam, now: Date = new Date()): MatchdayWindow | null {
   const byMatchday = entriesByMatchday(fixtures)
-  const matchdays = Object.keys(byMatchday).map(Number)
-  if (matchdays.length === 0) return null
 
-  const matchday = Math.min(...matchdays)
-  const kickoffs = byMatchday[matchday].sort((a, b) => a.getTime() - b.getTime())
-  const full = Math.max(...matchdays.map((m) => byMatchday[m].length))
+  // La jornada en curso es la del siguiente partido por jugar, no la del
+  // número más bajo: un aplazamiento deja partidos de una jornada anterior
+  // con fecha muy posterior (la J6 jugándose en octubre), y quedarse con el
+  // número más bajo daba esas fechas como las de la próxima jornada.
+  const pendientes = Object.entries(byMatchday)
+    .map(([matchday, kickoffs]) => {
+      const orden = kickoffs.sort((a, b) => a.getTime() - b.getTime())
+      return { matchday: Number(matchday), kickoffs: orden, next: orden.find((k) => k >= now) }
+    })
+    .filter((jornada) => jornada.next !== undefined)
+    .sort((a, b) => a.next!.getTime() - b.next!.getTime())
 
-  const following = matchdays.filter((m) => m > matchday)
-  const next = following.length > 0 ? Math.min(...following) : null
+  const [jornada, siguiente] = pendientes
+  if (!jornada) return null
 
   return {
-    matchday,
-    start: kickoffs[0],
-    end: kickoffs[kickoffs.length - 1],
-    started: kickoffs.length < full,
-    next:
-      next === null
-        ? null
-        : { matchday: next, start: byMatchday[next].sort((a, b) => a.getTime() - b.getTime())[0] },
+    matchday: jornada.matchday,
+    start: jornada.kickoffs[0],
+    end: jornada.kickoffs[jornada.kickoffs.length - 1],
+    started: jornada.kickoffs[0] <= now,
+    next: siguiente ? { matchday: siguiente.matchday, start: siguiente.kickoffs[0] } : null,
   }
 }
 
@@ -83,7 +84,7 @@ export function matchdayLabel(window: MatchdayWindow | null) {
       matchday,
       text: `J${matchday} · en juego hasta ${end}${despues}`,
       title:
-        `Jornada ${matchday} en juego, último partido ${end}.` +
+        `Jornada ${matchday} en juego: empezó ${start}, último partido ${end}.` +
         (next ? ` La jornada ${next.matchday} empieza ${next.start}.` : ''),
     }
   }

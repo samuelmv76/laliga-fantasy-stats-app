@@ -1,12 +1,17 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { FIXTURES as MOCK_FIXTURES } from '../data/mockFixtures.tsx'
 import type { FixturesByTeam } from '../types.tsx'
 
 // Mismo patrón que usePlayers: intenta cargar el calendario real desde
 // /api/fixtures (Neon, {equipo: [{matchday, opponent, home, kickoff}]}), y
 // si la API no responde usa datos de prueba.
+//
+// Devuelve dos vistas del mismo dato: `calendar` tal cual llega (incluye los
+// partidos ya jugados de la jornada en curso, que son los que dicen cuándo
+// empezó) y `fixtures`, solo lo que queda por jugar, que es lo que significa
+// "próximo partido" en el mercado y en la ficha.
 export function useFixtures() {
-  const [fixtures, setFixtures] = useState<FixturesByTeam>(MOCK_FIXTURES)
+  const [calendar, setCalendar] = useState<FixturesByTeam>(MOCK_FIXTURES)
 
   useEffect(() => {
     let cancelled = false
@@ -17,7 +22,7 @@ export function useFixtures() {
         return res.json()
       })
       .then((data) => {
-        if (!cancelled && data && typeof data === 'object') setFixtures(data)
+        if (!cancelled && data && typeof data === 'object') setCalendar(data)
       })
       .catch(() => {
         // se queda con FIXTURES de prueba, no pasa nada
@@ -28,5 +33,12 @@ export function useFixtures() {
     }
   }, [])
 
-  return { fixtures }
+  const fixtures = useMemo(() => {
+    const now = Date.now()
+    return Object.fromEntries(
+      Object.entries(calendar).map(([team, list]) => [team, list.filter((f) => Date.parse(f.kickoff) > now)])
+    )
+  }, [calendar])
+
+  return { fixtures, calendar }
 }

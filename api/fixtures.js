@@ -3,7 +3,8 @@ import { neon } from '@neondatabase/serverless'
 const sql = neon(process.env.DATABASE_URL)
 
 // Misma forma que el antiguo public/calendario.json: un objeto por equipo
-// con sus próximos partidos.
+// con sus próximos partidos, más los ya jugados de la jornada en curso: sin
+// ellos el front no puede saber a qué hora empezó esa jornada.
 export default async function handler(req, res) {
   try {
     // Las columnas de cuotas las crea sync_to_neon.mjs; si la base aún no las
@@ -14,6 +15,7 @@ export default async function handler(req, res) {
         SELECT team, matchday, opponent, home, kickoff, odds_home, odds_draw, odds_away
         FROM team_fixtures
         WHERE kickoff > now()
+          OR matchday = (SELECT matchday FROM team_fixtures WHERE kickoff > now() ORDER BY kickoff LIMIT 1)
         ORDER BY team, kickoff
       `
     } catch {
@@ -21,6 +23,7 @@ export default async function handler(req, res) {
         SELECT team, matchday, opponent, home, kickoff
         FROM team_fixtures
         WHERE kickoff > now()
+          OR matchday = (SELECT matchday FROM team_fixtures WHERE kickoff > now() ORDER BY kickoff LIMIT 1)
         ORDER BY team, kickoff
       `
     }

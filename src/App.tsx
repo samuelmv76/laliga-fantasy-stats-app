@@ -19,7 +19,7 @@ const FOOTER_LINK =
 
 export default function App() {
   const { players } = usePlayers()
-  const { fixtures } = useFixtures()
+  const { fixtures, calendar } = useFixtures()
   const { squad, squadIds, totalValue, canAdd, addPlayer, removePlayer, teamName, renameTeam } = useSquad(players)
   const { theme, toggleTheme } = useTheme()
   const TABS = [
@@ -29,7 +29,7 @@ export default function App() {
   ]
   const [tab, setTab] = useState('mercado')
   const [selected, setSelected] = useState<Player | null>(null)
-  const nextMatch = useMemo(() => matchdayLabel(nextMatchdayWindow(fixtures)), [fixtures])
+  const nextMatch = useMemo(() => matchdayLabel(nextMatchdayWindow(calendar)), [calendar])
   const pulse = useMemo(() => pulseStats(players), [players])
 
   return (

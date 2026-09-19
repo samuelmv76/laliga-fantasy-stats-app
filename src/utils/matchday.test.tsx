@@ -21,63 +21,74 @@ test('matchday.js: inicio, final y jornada en juego', () => {
     `2026-09-${dias + 2}T21:00:00+02:00`,
   ]
 
+  // El reloj entra por parámetro: qué jornada manda depende de la hora, no del
+  // día en que se ejecute el test.
+  const antes = new Date('2026-09-17T12:00:00+02:00')
+  const enMarcha = new Date('2026-09-19T12:00:00+02:00')
+
   // Jornada que aún no ha empezado: primer y último partido.
-  const proxima = nextMatchdayWindow(jornadaCompleta(7, diez(18)))!
+  const proxima = nextMatchdayWindow(jornadaCompleta(7, diez(18)), antes)!
   assert.equal(proxima.matchday, 7)
   assert.equal(proxima.started, false)
   assert.equal(proxima.start.toISOString(), new Date('2026-09-18T21:00:00+02:00').toISOString())
   assert.equal(proxima.end.toISOString(), new Date('2026-09-20T21:00:00+02:00').toISOString())
   assert.match(matchdayLabel(proxima)!.text, /^J7 · del vie 18\/0?9 21:00 al dom 20\/0?9 21:00$/)
 
-  // Manda la jornada más baja, aunque el calendario traiga varias.
+  // Manda la jornada del siguiente partido por jugar, no el número más bajo:
+  // un aplazamiento deja partidos de la J6 después de toda la J7.
   const varias = { ...jornadaCompleta(7, diez(18)) }
   for (const [team, list] of Object.entries(jornadaCompleta(8, diez(25)))) {
     varias[team] = [...(varias[team] ?? []), ...list]
   }
-  assert.equal(nextMatchdayWindow(varias)!.matchday, 7)
+  varias.local0 = [
+    ...varias.local0,
+    { matchday: 6, kickoff: '2026-10-21T20:00:00+02:00', opponent: 'aplazado', home: true },
+  ]
+  assert.equal(nextMatchdayWindow(varias, antes)!.matchday, 7)
 
-  // Jornada ya empezada: /api/fixtures solo devuelve los partidos que quedan,
-  // así que trae menos entradas que una jornada completa. No se puede decir
-  // "empieza", porque ya empezó.
-  const empezada = { ...varias }
-  for (const team of Object.keys(jornadaCompleta(7, diez(18)))) {
-    empezada[team] = empezada[team].filter((f) => f.matchday !== 7 || f.kickoff.startsWith('2026-09-20'))
-  }
-  const enJuego = nextMatchdayWindow(empezada)!
+  // Jornada ya empezada: el primer partido queda por detrás del reloj, así que
+  // no se puede decir "empieza", pero la hora a la que empezó sigue siendo la
+  // del primer partido de la jornada.
+  const enJuego = nextMatchdayWindow(varias, enMarcha)!
   assert.equal(enJuego.matchday, 7)
   assert.equal(enJuego.started, true)
+  assert.equal(enJuego.start.toISOString(), new Date('2026-09-18T21:00:00+02:00').toISOString())
   assert.equal(enJuego.next!.matchday, 8)
   // (el cero del mes lo pone formatDay y depende del entorno, de ahí el regex)
   assert.match(
     matchdayLabel(enJuego)!.text,
     /^J7 · en juego hasta dom 20\/0?9 21:00 · J8 empieza vie 25\/0?9 21:00$/
   )
+  assert.match(matchdayLabel(enJuego)!.title, /empezó vie 18\/0?9 21:00/)
 
-  // Con una sola jornada en el calendario no hay siguiente que anunciar (y
-  // tampoco se puede saber si esa ya ha empezado, porque no hay con qué
-  // comparar el número de partidos).
-  const solaJornada = nextMatchdayWindow({
-    local0: [{ matchday: 7, kickoff: '2026-09-20T21:00:00+02:00', opponent: 'visitante0', home: true }],
-  })!
+  // Con una sola jornada en el calendario no hay siguiente que anunciar.
+  const solaJornada = nextMatchdayWindow(
+    { local0: [{ matchday: 7, kickoff: '2026-09-20T21:00:00+02:00', opponent: 'visitante0', home: true }] },
+    antes
+  )!
   assert.equal(solaJornada.next, null)
   assert.equal(solaJornada.started, false)
   assert.match(matchdayLabel(solaJornada)!.text, /^J7 · dom 20\/0?9 21:00$/)
 
   // Jornada con un único horario para todos los partidos: no hay rango.
-  const unica = nextMatchdayWindow(jornadaCompleta(9, Array.from({ length: 10 }, () => '2026-09-19T21:00:00+02:00')))!
+  const unica = nextMatchdayWindow(
+    jornadaCompleta(9, Array.from({ length: 10 }, () => '2026-09-19T21:00:00+02:00')),
+    antes
+  )!
   assert.match(matchdayLabel(unica)!.text, /^J9 · sáb 19\/0?9 21:00$/)
 
-  // Sin calendario, o con basura, no se inventa nada.
-  assert.equal(nextMatchdayWindow(undefined), null)
-  assert.equal(nextMatchdayWindow({}), null)
-  assert.equal(nextMatchdayWindow({ Celta: [{ matchday: 'x', kickoff: 'ayer' } as never] }), null)
+  // Sin calendario, con basura, o con todo ya jugado, no se inventa nada.
+  assert.equal(nextMatchdayWindow(undefined, antes), null)
+  assert.equal(nextMatchdayWindow({}, antes), null)
+  assert.equal(nextMatchdayWindow({ Celta: [{ matchday: 'x', kickoff: 'ayer' } as never] }, antes), null)
+  assert.equal(nextMatchdayWindow(jornadaCompleta(7, diez(18)), new Date('2026-10-01T12:00:00+02:00')), null)
   assert.equal(matchdayLabel(null), null)
   // Una entrada rota no tumba las buenas.
   const conBasura: FixturesByTeam = {
     ...jornadaCompleta(7, diez(18)),
     Roto: [{ matchday: 7, kickoff: 'no-es-fecha', opponent: 'nadie', home: true }],
   }
-  assert.equal(nextMatchdayWindow(conBasura)!.matchday, 7)
+  assert.equal(nextMatchdayWindow(conBasura, antes)!.matchday, 7)
 
   // La fecha va siempre, esté el partido cerca o lejos (el cero del mes lo pone
   // formatDay y depende del entorno, de ahí el regex).
