@@ -58,20 +58,6 @@
       "playProbability": 80
     },
     {
-      "slug": "13830",
-      "status": null,
-      "note": "Trabajo al margen",
-      "until": "Disponible para la jornada 8",
-      "playProbability": 10
-    },
-    {
-      "slug": "14017",
-      "status": null,
-      "note": "Trabajo al margen",
-      "until": "Disponible para la jornada 8",
-      "playProbability": 40
-    },
-    {
       "slug": "10005",
       "status": "duda",
       "note": "Lesión en el sóleo",
@@ -121,13 +107,6 @@
       "playProbability": 50
     },
     {
-      "slug": "322",
-      "status": "duda",
-      "note": "Lesión en los isquiotibiales",
-      "until": "Duda para la jornada 8",
-      "playProbability": 30
-    },
-    {
       "slug": "5051",
       "status": "duda",
       "note": "Operado del menisco",
@@ -135,17 +114,24 @@
       "playProbability": 0
     },
     {
-      "slug": "175",
-      "status": "lesion",
-      "note": "Lesión en el recto anterior",
-      "until": "Baja hasta mediados de octubre",
-      "playProbability": 0
+      "slug": "322",
+      "status": null,
+      "note": "Sobrecarga en los isquiotibiales",
+      "until": "Disponible para la jornada 8",
+      "playProbability": 30
     },
     {
       "slug": "14980",
       "status": "lesion",
       "note": "Sinovitis en la rodilla",
       "until": "Baja confirmada para la jornada 8",
+      "playProbability": 0
+    },
+    {
+      "slug": "175",
+      "status": "duda",
+      "note": "Lesión en el recto anterior",
+      "until": "Duda para la jornada 8",
       "playProbability": 0
     },
     {
@@ -387,6 +373,13 @@
       "playProbability": 50
     },
     {
+      "slug": "3758",
+      "status": "lesion",
+      "note": "Esguince de tobillo",
+      "until": "Baja hasta finales de octubre",
+      "playProbability": 0
+    },
+    {
       "slug": "6631",
       "status": "lesion",
       "note": "Rotura de ligamento cruzado y menisco",
@@ -406,13 +399,6 @@
       "note": "Lesión en el bíceps femoral",
       "until": "Duda para la jornada 8",
       "playProbability": 0
-    },
-    {
-      "slug": "3758",
-      "status": "duda",
-      "note": "Esguince de tobillo",
-      "until": "Duda para la jornada 8",
-      "playProbability": 50
     },
     {
       "slug": "2807",
@@ -441,6 +427,13 @@
       "note": "Lesión en el aductor",
       "until": "Baja hasta principios de octubre",
       "playProbability": 40
+    },
+    {
+      "slug": "9931",
+      "status": null,
+      "note": "Trabajo al margen",
+      "until": "Disponible para la jornada 8",
+      "playProbability": 90
     },
     {
       "slug": "9201",

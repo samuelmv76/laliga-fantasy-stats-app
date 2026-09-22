@@ -96210,10 +96210,10 @@
       "yellow": 0,
       "red": 0
     },
-    "status": "duda",
+    "status": "lesion",
     "statusNote": "Esguince de tobillo",
-    "statusUntil": "Duda para la jornada 8",
-    "playProbability": 50
+    "statusUntil": "Baja hasta finales de octubre",
+    "playProbability": 0
   },
   {
     "id": "9669",
@@ -113028,10 +113028,10 @@
       "yellow": 0,
       "red": 0
     },
-    "status": "lesion",
+    "status": "duda",
     "statusNote": "Lesión en el recto anterior",
     "playProbability": 0,
-    "statusUntil": "Baja hasta mediados de octubre"
+    "statusUntil": "Duda para la jornada 8"
   },
   {
     "id": "3255",
@@ -121506,11 +121506,7 @@
       "conceded": 6,
       "yellow": 0,
       "red": 0
-    },
-    "status": "duda",
-    "statusNote": "Lesión en los isquiotibiales",
-    "statusUntil": "Duda para la jornada 8",
-    "playProbability": 30
+    }
   },
   {
     "id": "10823",
