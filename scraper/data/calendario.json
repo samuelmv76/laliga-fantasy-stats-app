@@ -42,7 +42,7 @@
       "matchday": 8,
       "opponent": "Rayo",
       "home": false,
-      "kickoff": "2026-10-11T21:00:00+02:00"
+      "kickoff": "2026-10-10T14:00:00+02:00"
     },
     {
       "matchday": 9,
@@ -156,7 +156,7 @@
       "matchday": 8,
       "opponent": "Osasuna",
       "home": true,
-      "kickoff": "2026-10-11T21:00:00+02:00"
+      "kickoff": "2026-10-11T18:30:00+02:00"
     },
     {
       "matchday": 9,
@@ -308,7 +308,7 @@
       "matchday": 8,
       "opponent": "Málaga",
       "home": false,
-      "kickoff": "2026-10-11T21:00:00+02:00"
+      "kickoff": "2026-10-09T21:00:00+02:00"
     },
     {
       "matchday": 9,
@@ -422,7 +422,7 @@
       "matchday": 8,
       "opponent": "Espanyol",
       "home": true,
-      "kickoff": "2026-10-11T21:00:00+02:00"
+      "kickoff": "2026-10-09T21:00:00+02:00"
     },
     {
       "matchday": 9,
@@ -460,7 +460,7 @@
       "matchday": 8,
       "opponent": "Betis",
       "home": false,
-      "kickoff": "2026-10-11T21:00:00+02:00"
+      "kickoff": "2026-10-11T18:30:00+02:00"
     },
     {
       "matchday": 9,
@@ -536,7 +536,7 @@
       "matchday": 8,
       "opponent": "Athletic",
       "home": true,
-      "kickoff": "2026-10-11T21:00:00+02:00"
+      "kickoff": "2026-10-10T14:00:00+02:00"
     },
     {
       "matchday": 9,
