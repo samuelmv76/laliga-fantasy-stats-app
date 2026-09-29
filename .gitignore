@@ -34,3 +34,4 @@ dist-ssr
 .claude/*
 !.claude/settings.json
 .agents/
+.githooks/
