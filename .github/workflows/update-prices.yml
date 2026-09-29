@@ -85,4 +85,6 @@ jobs:
           MES=${MESES[$(( $(date -u +%-m) - 1 ))]}
           ANIO=$(date -u +%Y)
           git diff --staged --quiet || git commit -m "Datos actualizados día $DIA de $MES de $ANIO"
+          # Si alguien ha subido cambios mientras corría el job, los traemos antes de subir.
+          git pull --rebase origin main
           git push
