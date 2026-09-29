@@ -2,10 +2,10 @@ name: Actualizar precios LaLiga Fantasy
 
 on:
   schedule:
-    # 01:15 UTC = 02:15 o 03:15 hora española según horario de verano/invierno.
+    # 01:23 UTC = 03:23 o 02:23 hora española según horario de verano/invierno.
     # El mercado de futbolfantasy se actualiza pasada la medianoche española,
     # así que dejamos margen para que ya esté publicado.
-    - cron: "15 1 * * *"
+    - cron: "23 1 * * *"
   workflow_dispatch: {} # permite lanzarlo a mano desde la pestaña Actions
 
 jobs:
