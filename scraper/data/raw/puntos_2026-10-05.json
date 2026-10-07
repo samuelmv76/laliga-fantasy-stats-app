@@ -1,0 +1,3473 @@
+{
+  "date": "2026-10-05",
+  "players": [
+    {
+      "slug": "44",
+      "points": 28,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "697",
+      "points": 37,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "735",
+      "points": 27,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "1934",
+      "points": 36,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "1972",
+      "points": 18,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "3204",
+      "points": 27,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "3693",
+      "points": 46,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "5859",
+      "points": 4,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "7006",
+      "points": 33,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "7293",
+      "points": 42,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "7638",
+      "points": 16,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "7916",
+      "points": 34,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "8693",
+      "points": 33,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "10213",
+      "points": 17,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "10214",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "11677",
+      "points": 1,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "11688",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "11983",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "12605",
+      "points": 18,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "13830",
+      "points": 6,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "14017",
+      "points": 5,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "15409",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16229",
+      "points": 14,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "16350",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "7917",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16810",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "7920",
+      "points": 2,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "63",
+      "points": 32,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "1826",
+      "points": 49,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "1931",
+      "points": 41,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "2771",
+      "points": 50,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "4434",
+      "points": 30,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "5942",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "5995",
+      "points": 44,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6002",
+      "points": 27,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "6337",
+      "points": 52,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7645",
+      "points": 54,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9276",
+      "points": 43,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9755",
+      "points": 2,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "9823",
+      "points": 25,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "10005",
+      "points": 28,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "10237",
+      "points": 8,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "10393",
+      "points": 22,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "11579",
+      "points": 12,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "11861",
+      "points": 8,
+      "played": 1,
+      "played5": 0
+    },
+    {
+      "slug": "12647",
+      "points": 20,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "15422",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "17529",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18213",
+      "points": 0,
+      "played": 1,
+      "played5": 0
+    },
+    {
+      "slug": "18214",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "10287",
+      "points": 11,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "6310",
+      "points": 30,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "9573",
+      "points": 38,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "15572",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "1882",
+      "points": 19,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "2288",
+      "points": 35,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "2417",
+      "points": 26,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "2534",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "4288",
+      "points": 117,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6674",
+      "points": 15,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "7257",
+      "points": 49,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7279",
+      "points": 48,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "7542",
+      "points": 32,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "7595",
+      "points": 32,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "8395",
+      "points": 47,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9273",
+      "points": 3,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "11520",
+      "points": 98,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "11706",
+      "points": 27,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "11709",
+      "points": 61,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "12641",
+      "points": 37,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "13864",
+      "points": 36,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "14882",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16723",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16765",
+      "points": 49,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "17663",
+      "points": 2,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "18240",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18268",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "2733",
+      "points": 29,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "9316",
+      "points": 4,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "3589",
+      "points": 6,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "3724",
+      "points": 12,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "18243",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "322",
+      "points": 32,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "336",
+      "points": 27,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "707",
+      "points": 13,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "2153",
+      "points": 25,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "2632",
+      "points": 33,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "3215",
+      "points": 37,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "3686",
+      "points": 76,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "4620",
+      "points": 7,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "5546",
+      "points": 39,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6392",
+      "points": 28,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "6393",
+      "points": 2,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "6450",
+      "points": 35,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7201",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "8405",
+      "points": 42,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "10233",
+      "points": 8,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "11813",
+      "points": 47,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "14135",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "15696",
+      "points": 41,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "15736",
+      "points": 27,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "16203",
+      "points": 29,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "7589",
+      "points": 21,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "18418",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "9750",
+      "points": 24,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "16154",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "1062",
+      "points": 7,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "3717",
+      "points": 2,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "7554",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "175",
+      "points": 20,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "1945",
+      "points": 4,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "3255",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "4397",
+      "points": 29,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "5978",
+      "points": 56,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6487",
+      "points": 16,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "6885",
+      "points": 9,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "7199",
+      "points": 24,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7842",
+      "points": 31,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "8082",
+      "points": 35,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9012",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "9612",
+      "points": 14,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "9740",
+      "points": 29,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "9744",
+      "points": 32,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "10207",
+      "points": 14,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "10822",
+      "points": 24,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "11767",
+      "points": 17,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "12420",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "12534",
+      "points": 11,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "13035",
+      "points": 21,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "13036",
+      "points": 30,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "13808",
+      "points": 50,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "14980",
+      "points": 4,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "16802",
+      "points": 4,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "16803",
+      "points": 2,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "18201",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "9638",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "14199",
+      "points": 9,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "13608",
+      "points": 8,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "392",
+      "points": 19,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "698",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "3414",
+      "points": 65,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "3605",
+      "points": -3,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "3612",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "7309",
+      "points": 8,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "8712",
+      "points": 41,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9405",
+      "points": 40,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9772",
+      "points": 37,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9854",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "10357",
+      "points": 13,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "10473",
+      "points": 23,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "10478",
+      "points": 18,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "11198",
+      "points": 23,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "13972",
+      "points": 15,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "13975",
+      "points": 6,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "14876",
+      "points": 0,
+      "played": 1,
+      "played5": 0
+    },
+    {
+      "slug": "15164",
+      "points": 13,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "15351",
+      "points": 16,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "16099",
+      "points": 20,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "16863",
+      "points": 26,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "18017",
+      "points": 2,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "18030",
+      "points": 17,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "775",
+      "points": 24,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "13974",
+      "points": 19,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "972",
+      "points": 6,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "10217",
+      "points": 9,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "13970",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "1927",
+      "points": 9,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "3738",
+      "points": 40,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "3759",
+      "points": 51,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "3785",
+      "points": 23,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "3879",
+      "points": 4,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "8228",
+      "points": 19,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9850",
+      "points": 5,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "9987",
+      "points": 55,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "10219",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "10220",
+      "points": 29,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "10893",
+      "points": 26,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "11467",
+      "points": 6,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "11863",
+      "points": 19,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "12891",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "12918",
+      "points": 3,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "13119",
+      "points": 6,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "14024",
+      "points": 32,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "14928",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "15316",
+      "points": 15,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "15957",
+      "points": 5,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "16202",
+      "points": 27,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "16308",
+      "points": 24,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "17445",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "582",
+      "points": 19,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "9779",
+      "points": 11,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "3799",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18308",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "899",
+      "points": 27,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "1919",
+      "points": 53,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "1989",
+      "points": 3,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "3178",
+      "points": 8,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "3751",
+      "points": 18,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "3881",
+      "points": 37,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "5083",
+      "points": 4,
+      "played": 2,
+      "played5": 0
+    },
+    {
+      "slug": "8496",
+      "points": 36,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "8944",
+      "points": 41,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "10463",
+      "points": 24,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "11202",
+      "points": 8,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "11905",
+      "points": 8,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "11916",
+      "points": 27,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "12917",
+      "points": 4,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "13876",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "13877",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "14210",
+      "points": 42,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "14816",
+      "points": -1,
+      "played": 1,
+      "played5": 0
+    },
+    {
+      "slug": "16004",
+      "points": 2,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "17161",
+      "points": 7,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "18322",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "7995",
+      "points": 16,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "18411",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18412",
+      "points": 2,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "7028",
+      "points": 15,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "12539",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "16149",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "8782",
+      "points": 23,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "18732",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "1566",
+      "points": 21,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "1743",
+      "points": 45,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "4976",
+      "points": 10,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "6346",
+      "points": 30,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "6605",
+      "points": 16,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "7629",
+      "points": 29,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "7644",
+      "points": 6,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "8088",
+      "points": 24,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "8646",
+      "points": 0,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "8961",
+      "points": 29,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "10326",
+      "points": 10,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "11807",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "12879",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "13145",
+      "points": 6,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "16020",
+      "points": 18,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "16022",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "18006",
+      "points": 30,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "18027",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18028",
+      "points": 0,
+      "played": 1,
+      "played5": 0
+    },
+    {
+      "slug": "18029",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18241",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "8988",
+      "points": 5,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "9157",
+      "points": 30,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "12598",
+      "points": 2,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "17116",
+      "points": 14,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "18406",
+      "points": 4,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "18294",
+      "points": 4,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "11998",
+      "points": 2,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "15089",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18242",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "3174",
+      "points": 22,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "6050",
+      "points": 21,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6814",
+      "points": 1,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "6973",
+      "points": 37,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7686",
+      "points": 2,
+      "played": 1,
+      "played5": 0
+    },
+    {
+      "slug": "7703",
+      "points": 9,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "8250",
+      "points": 16,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "8780",
+      "points": 17,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9321",
+      "points": 4,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "10353",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "10823",
+      "points": 13,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "10860",
+      "points": 28,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "13978",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "13982",
+      "points": 11,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "13983",
+      "points": 14,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "14096",
+      "points": 15,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "15336",
+      "points": 8,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "15344",
+      "points": 26,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "15417",
+      "points": 25,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "16286",
+      "points": 28,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "18225",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18378",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "7614",
+      "points": 19,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "5671",
+      "points": 8,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "8536",
+      "points": 0,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "14183",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "12475",
+      "points": 10,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "14177",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "660",
+      "points": 25,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "829",
+      "points": 8,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "841",
+      "points": 26,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "1928",
+      "points": 10,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "3206",
+      "points": 17,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "3235",
+      "points": -1,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "6493",
+      "points": 28,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "6611",
+      "points": 22,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "6635",
+      "points": 53,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7027",
+      "points": 20,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7082",
+      "points": 15,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "7203",
+      "points": 12,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "7204",
+      "points": 19,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7870",
+      "points": 13,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "8695",
+      "points": 5,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "10208",
+      "points": 14,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "11230",
+      "points": 20,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "11362",
+      "points": 17,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "12453",
+      "points": 11,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "12823",
+      "points": 16,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "15424",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16158",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16982",
+      "points": 3,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "18053",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18316",
+      "points": 1,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "8485",
+      "points": 4,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "18711",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "863",
+      "points": 16,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "867",
+      "points": 31,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "1881",
+      "points": 39,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "3623",
+      "points": 17,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "6560",
+      "points": 21,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "6562",
+      "points": 57,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6633",
+      "points": 16,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "6853",
+      "points": 7,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "6889",
+      "points": 20,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6957",
+      "points": 5,
+      "played": 2,
+      "played5": 0
+    },
+    {
+      "slug": "7251",
+      "points": 3,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "7307",
+      "points": 34,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7570",
+      "points": 3,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "10210",
+      "points": 3,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "11758",
+      "points": 5,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "12651",
+      "points": 13,
+      "played": 2,
+      "played5": 0
+    },
+    {
+      "slug": "13801",
+      "points": 3,
+      "played": 2,
+      "played5": 0
+    },
+    {
+      "slug": "13812",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "13814",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "14004",
+      "points": 2,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "16147",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18048",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "8337",
+      "points": 7,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "5587",
+      "points": 24,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "13813",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18273",
+      "points": 4,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "2413",
+      "points": 15,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "5228",
+      "points": 10,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "12608",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "7100",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16146",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "59",
+      "points": 41,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "2536",
+      "points": 26,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "3429",
+      "points": 82,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "3431",
+      "points": 23,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "3758",
+      "points": 32,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "4480",
+      "points": 25,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "4884",
+      "points": 19,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "5013",
+      "points": 20,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "5035",
+      "points": 8,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "5526",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "5565",
+      "points": 50,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6055",
+      "points": 12,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "8386",
+      "points": 71,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "8479",
+      "points": 16,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "10176",
+      "points": 24,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "10767",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "11439",
+      "points": 64,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "11830",
+      "points": 29,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "12870",
+      "points": 19,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "14019",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "15227",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "15342",
+      "points": 30,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "16948",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "11886",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16735",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "9669",
+      "points": 9,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "12639",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "13564",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "16237",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "1975",
+      "points": 33,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "2675",
+      "points": 33,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "2799",
+      "points": 45,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "2802",
+      "points": 12,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "6180",
+      "points": 22,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6363",
+      "points": 30,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "6394",
+      "points": 3,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "6446",
+      "points": 25,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7091",
+      "points": 12,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "7725",
+      "points": 3,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "8392",
+      "points": 40,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "8651",
+      "points": 16,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "8679",
+      "points": 9,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "9011",
+      "points": 4,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "10660",
+      "points": 14,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "11684",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "11792",
+      "points": 13,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "11793",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "12538",
+      "points": 21,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "14021",
+      "points": 23,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "14881",
+      "points": 2,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "15273",
+      "points": 2,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "16155",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16922",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "2242",
+      "points": 22,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "11816",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16867",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "11683",
+      "points": 9,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "15944",
+      "points": 4,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "11577",
+      "points": 2,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "10830",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "3736",
+      "points": 26,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6235",
+      "points": 46,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7249",
+      "points": 37,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "8634",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "8686",
+      "points": 36,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9125",
+      "points": 2,
+      "played": 1,
+      "played5": 0
+    },
+    {
+      "slug": "9317",
+      "points": 4,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "9931",
+      "points": 24,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "10341",
+      "points": 12,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "11180",
+      "points": 4,
+      "played": 2,
+      "played5": 1
+    },
+    {
+      "slug": "11554",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "11680",
+      "points": 20,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "12042",
+      "points": 22,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "12358",
+      "points": 27,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "12590",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "12596",
+      "points": 18,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "13865",
+      "points": 2,
+      "played": 2,
+      "played5": 0
+    },
+    {
+      "slug": "13888",
+      "points": 34,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "16198",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16236",
+      "points": 45,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "16975",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "17129",
+      "points": 6,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "18014",
+      "points": 12,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "18314",
+      "points": 16,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7786",
+      "points": 16,
+      "played": 5,
+      "played5": 5
+    },
+    {
+      "slug": "18026",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "8703",
+      "points": 4,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "8091",
+      "points": 15,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "9670",
+      "points": 25,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "18024",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18437",
+      "points": 8,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "4208",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "663",
+      "points": 19,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "989",
+      "points": 36,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "2663",
+      "points": 11,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "2715",
+      "points": 33,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "3607",
+      "points": 7,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "3732",
+      "points": 3,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "5019",
+      "points": 17,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "5080",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "6174",
+      "points": 25,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7676",
+      "points": 21,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "8294",
+      "points": 12,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "8684",
+      "points": 14,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9762",
+      "points": 18,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "9927",
+      "points": 30,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "12025",
+      "points": 20,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "12594",
+      "points": 5,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "14034",
+      "points": 3,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "14100",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "15928",
+      "points": 10,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "16317",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18018",
+      "points": 12,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "18031",
+      "points": 6,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "18279",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "6665",
+      "points": 18,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "16017",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "17585",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18283",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "943",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "9218",
+      "points": 2,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "17376",
+      "points": 9,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "6580",
+      "points": 4,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "16018",
+      "points": 0,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "18228",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "404",
+      "points": 5,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "1859",
+      "points": 9,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "2727",
+      "points": 5,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "5227",
+      "points": 28,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6882",
+      "points": 34,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7081",
+      "points": 48,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "7658",
+      "points": 28,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "8273",
+      "points": 17,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "8816",
+      "points": 6,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "9161",
+      "points": 20,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9759",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "10358",
+      "points": 13,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "11214",
+      "points": 15,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "12878",
+      "points": 16,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "12990",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "13883",
+      "points": 9,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "14115",
+      "points": 3,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "14118",
+      "points": -2,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "15505",
+      "points": 18,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "17248",
+      "points": 29,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "17495",
+      "points": 13,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "18021",
+      "points": 0,
+      "played": 1,
+      "played5": 0
+    },
+    {
+      "slug": "18309",
+      "points": 0,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "5194",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "17151",
+      "points": 10,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "3427",
+      "points": 17,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "9695",
+      "points": 6,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "14377",
+      "points": 19,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "843",
+      "points": 38,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "3106",
+      "points": 18,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "4511",
+      "points": 35,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "4705",
+      "points": 16,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "5549",
+      "points": 12,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "7209",
+      "points": 40,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "8413",
+      "points": 38,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9763",
+      "points": 29,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "9989",
+      "points": 9,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "9990",
+      "points": 52,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "10114",
+      "points": 30,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "10638",
+      "points": 16,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "11172",
+      "points": 10,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "11678",
+      "points": 11,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "12139",
+      "points": 45,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "12354",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "12634",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "12860",
+      "points": 9,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "13440",
+      "points": 7,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "14125",
+      "points": 12,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "16938",
+      "points": 11,
+      "played": 4,
+      "played5": 2
+    },
+    {
+      "slug": "17275",
+      "points": 20,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "18039",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "14812",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18041",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "14022",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "17695",
+      "points": 16,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "189",
+      "points": 36,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "1059",
+      "points": 65,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "1778",
+      "points": 23,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "2759",
+      "points": 18,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "3226",
+      "points": 44,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "3802",
+      "points": 10,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "5032",
+      "points": 21,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "5124",
+      "points": 40,
+      "played": 6,
+      "played5": 5
+    },
+    {
+      "slug": "7902",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "8080",
+      "points": 6,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "8737",
+      "points": 26,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9897",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "9909",
+      "points": 42,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "10258",
+      "points": 37,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "10448",
+      "points": 12,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "10476",
+      "points": 26,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "12355",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "12925",
+      "points": 6,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "14935",
+      "points": 17,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "15127",
+      "points": 53,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "15133",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16186",
+      "points": 17,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "16931",
+      "points": 2,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "17284",
+      "points": 50,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "14979",
+      "points": 14,
+      "played": 4,
+      "played5": 3
+    },
+    {
+      "slug": "11719",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16920",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "132",
+      "points": 24,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "3671",
+      "points": 9,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "3836",
+      "points": 8,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "6442",
+      "points": 37,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "6890",
+      "points": 18,
+      "played": 3,
+      "played5": 1
+    },
+    {
+      "slug": "8972",
+      "points": 16,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "9213",
+      "points": 42,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "9930",
+      "points": 2,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "10209",
+      "points": 2,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "10336",
+      "points": 6,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "10338",
+      "points": 1,
+      "played": 2,
+      "played5": 2
+    },
+    {
+      "slug": "12079",
+      "points": 9,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "14105",
+      "points": 15,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "14155",
+      "points": 10,
+      "played": 5,
+      "played5": 3
+    },
+    {
+      "slug": "14866",
+      "points": 1,
+      "played": 1,
+      "played5": 1
+    },
+    {
+      "slug": "15033",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "16262",
+      "points": 12,
+      "played": 2,
+      "played5": 0
+    },
+    {
+      "slug": "16760",
+      "points": -3,
+      "played": 3,
+      "played5": 2
+    },
+    {
+      "slug": "17493",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18218",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18221",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18222",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "18282",
+      "points": 43,
+      "played": 7,
+      "played5": 5
+    },
+    {
+      "slug": "18337",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "10533",
+      "points": 5,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "13822",
+      "points": 21,
+      "played": 6,
+      "played5": 4
+    },
+    {
+      "slug": "6563",
+      "points": 16,
+      "played": 5,
+      "played5": 4
+    },
+    {
+      "slug": "17148",
+      "points": 2,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "11857",
+      "points": 5,
+      "played": 4,
+      "played5": 4
+    },
+    {
+      "slug": "3246",
+      "points": 0,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "11286",
+      "points": 8,
+      "played": 3,
+      "played5": 3
+    },
+    {
+      "slug": "16359",
+      "points": 0,
+      "played": 0,
+      "played5": 0
+    },
+    {
+      "slug": "17130",
+      "points": 2,
+      "played": 3,
+      "played5": 3
+    }
+  ]
+}
