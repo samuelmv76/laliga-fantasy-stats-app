@@ -4,7 +4,12 @@
       "matchday": 9,
       "opponent": "Celta",
       "home": false,
-      "kickoff": "2026-10-18T16:15:00+02:00"
+      "kickoff": "2026-10-18T16:15:00+02:00",
+      "odds": {
+        "home": 2.1,
+        "draw": 3.22,
+        "away": 3.5
+      }
     },
     {
       "matchday": 10,
@@ -42,7 +47,12 @@
       "matchday": 9,
       "opponent": "Valencia",
       "home": false,
-      "kickoff": "2026-10-17T21:00:00+02:00"
+      "kickoff": "2026-10-17T21:00:00+02:00",
+      "odds": {
+        "home": 3.26,
+        "draw": 3.34,
+        "away": 2.19
+      }
     },
     {
       "matchday": 6,
@@ -80,7 +90,12 @@
       "matchday": 9,
       "opponent": "Espanyol",
       "home": false,
-      "kickoff": "2026-10-17T14:00:00+02:00"
+      "kickoff": "2026-10-17T14:00:00+02:00",
+      "odds": {
+        "home": 4.68,
+        "draw": 3.84,
+        "away": 1.7
+      }
     },
     {
       "matchday": 10,
@@ -118,7 +133,12 @@
       "matchday": 9,
       "opponent": "Betis",
       "home": false,
-      "kickoff": "2026-10-17T18:30:00+02:00"
+      "kickoff": "2026-10-17T18:30:00+02:00",
+      "odds": {
+        "home": 6.0,
+        "draw": 5.42,
+        "away": 1.4
+      }
     },
     {
       "matchday": 10,
@@ -156,7 +176,12 @@
       "matchday": 9,
       "opponent": "Barcelona",
       "home": true,
-      "kickoff": "2026-10-17T18:30:00+02:00"
+      "kickoff": "2026-10-17T18:30:00+02:00",
+      "odds": {
+        "home": 6.0,
+        "draw": 5.42,
+        "away": 1.4
+      }
     },
     {
       "matchday": 10,
@@ -194,7 +219,12 @@
       "matchday": 9,
       "opponent": "Alavés",
       "home": true,
-      "kickoff": "2026-10-18T16:15:00+02:00"
+      "kickoff": "2026-10-18T16:15:00+02:00",
+      "odds": {
+        "home": 2.1,
+        "draw": 3.22,
+        "away": 3.5
+      }
     },
     {
       "matchday": 10,
@@ -229,12 +259,6 @@
   ],
   "Deportivo": [
     {
-      "matchday": 9,
-      "opponent": "Levante",
-      "home": true,
-      "kickoff": "2026-10-16T21:00:00+02:00"
-    },
-    {
       "matchday": 10,
       "opponent": "Atlético",
       "home": false,
@@ -263,6 +287,12 @@
       "opponent": "Barcelona",
       "home": true,
       "kickoff": "2026-11-29T20:00:00+01:00"
+    },
+    {
+      "matchday": 15,
+      "opponent": "Racing",
+      "home": false,
+      "kickoff": "2026-12-06T20:00:00+01:00"
     }
   ],
   "Elche": [
@@ -270,7 +300,12 @@
       "matchday": 9,
       "opponent": "Villarreal",
       "home": false,
-      "kickoff": "2026-10-17T16:15:00+02:00"
+      "kickoff": "2026-10-17T16:15:00+02:00",
+      "odds": {
+        "home": 1.44,
+        "draw": 4.84,
+        "away": 6.17
+      }
     },
     {
       "matchday": 10,
@@ -308,7 +343,12 @@
       "matchday": 9,
       "opponent": "Atlético",
       "home": true,
-      "kickoff": "2026-10-17T14:00:00+02:00"
+      "kickoff": "2026-10-17T14:00:00+02:00",
+      "odds": {
+        "home": 4.68,
+        "draw": 3.84,
+        "away": 1.7
+      }
     },
     {
       "matchday": 10,
@@ -381,12 +421,6 @@
   ],
   "Levante": [
     {
-      "matchday": 9,
-      "opponent": "Deportivo",
-      "home": false,
-      "kickoff": "2026-10-16T21:00:00+02:00"
-    },
-    {
       "matchday": 6,
       "opponent": "Athletic",
       "home": true,
@@ -415,6 +449,12 @@
       "opponent": "Elche",
       "home": true,
       "kickoff": "2026-11-22T20:00:00+01:00"
+    },
+    {
+      "matchday": 14,
+      "opponent": "Racing",
+      "home": true,
+      "kickoff": "2026-11-29T20:00:00+01:00"
     }
   ],
   "Málaga": [
@@ -422,7 +462,12 @@
       "matchday": 9,
       "opponent": "Real Sociedad",
       "home": true,
-      "kickoff": "2026-10-18T18:30:00+02:00"
+      "kickoff": "2026-10-18T18:30:00+02:00",
+      "odds": {
+        "home": 3.14,
+        "draw": 3.48,
+        "away": 2.15
+      }
     },
     {
       "matchday": 10,
@@ -574,7 +619,12 @@
       "matchday": 9,
       "opponent": "Sevilla",
       "home": true,
-      "kickoff": "2026-10-18T21:00:00+02:00"
+      "kickoff": "2026-10-18T21:00:00+02:00",
+      "odds": {
+        "home": 1.23,
+        "draw": 6.27,
+        "away": 10.23
+      }
     },
     {
       "matchday": 10,
@@ -612,7 +662,12 @@
       "matchday": 9,
       "opponent": "Málaga",
       "home": false,
-      "kickoff": "2026-10-18T18:30:00+02:00"
+      "kickoff": "2026-10-18T18:30:00+02:00",
+      "odds": {
+        "home": 3.14,
+        "draw": 3.48,
+        "away": 2.15
+      }
     },
     {
       "matchday": 10,
@@ -650,7 +705,12 @@
       "matchday": 9,
       "opponent": "Real Madrid",
       "home": false,
-      "kickoff": "2026-10-18T21:00:00+02:00"
+      "kickoff": "2026-10-18T21:00:00+02:00",
+      "odds": {
+        "home": 1.23,
+        "draw": 6.27,
+        "away": 10.23
+      }
     },
     {
       "matchday": 10,
@@ -688,7 +748,12 @@
       "matchday": 9,
       "opponent": "Athletic",
       "home": true,
-      "kickoff": "2026-10-17T21:00:00+02:00"
+      "kickoff": "2026-10-17T21:00:00+02:00",
+      "odds": {
+        "home": 3.26,
+        "draw": 3.34,
+        "away": 2.19
+      }
     },
     {
       "matchday": 10,
@@ -726,7 +791,12 @@
       "matchday": 9,
       "opponent": "Elche",
       "home": true,
-      "kickoff": "2026-10-17T16:15:00+02:00"
+      "kickoff": "2026-10-17T16:15:00+02:00",
+      "odds": {
+        "home": 1.44,
+        "draw": 4.84,
+        "away": 6.17
+      }
     },
     {
       "matchday": 10,
