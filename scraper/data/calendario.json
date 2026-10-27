@@ -457,17 +457,6 @@
   ],
   "Osasuna": [
     {
-      "matchday": 10,
-      "opponent": "Sevilla",
-      "home": false,
-      "kickoff": "2026-10-26T21:00:00+01:00",
-      "odds": {
-        "home": 1.92,
-        "draw": 3.36,
-        "away": 4.0
-      }
-    },
-    {
       "matchday": 11,
       "opponent": "Deportivo",
       "home": false,
@@ -496,6 +485,12 @@
       "opponent": "Elche",
       "home": true,
       "kickoff": "2026-12-06T20:00:00+01:00"
+    },
+    {
+      "matchday": 16,
+      "opponent": "Real Madrid",
+      "home": false,
+      "kickoff": "2026-12-13T20:00:00+01:00"
     }
   ],
   "Racing": [
@@ -652,17 +647,6 @@
   ],
   "Sevilla": [
     {
-      "matchday": 10,
-      "opponent": "Osasuna",
-      "home": true,
-      "kickoff": "2026-10-26T21:00:00+01:00",
-      "odds": {
-        "home": 1.92,
-        "draw": 3.36,
-        "away": 4.0
-      }
-    },
-    {
       "matchday": 11,
       "opponent": "Getafe",
       "home": false,
@@ -691,6 +675,12 @@
       "opponent": "Málaga",
       "home": true,
       "kickoff": "2026-12-06T20:00:00+01:00"
+    },
+    {
+      "matchday": 16,
+      "opponent": "Elche",
+      "home": false,
+      "kickoff": "2026-12-13T20:00:00+01:00"
     }
   ],
   "Valencia": [
