@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-31",
+  "source": "https://www.football-data.co.uk/fixtures.csv",
+  "matches": [
+    {
+      "kickoff": "2026-10-30T21:00:00+01:00",
+      "date": "2026-10-30",
+      "home": "Villarreal",
+      "away": "Espanyol",
+      "odds": {
+        "home": 1.41,
+        "draw": 4.99,
+        "away": 6.71
+      }
+    },
+    {
+      "kickoff": "2026-10-31T14:00:00+01:00",
+      "date": "2026-10-31",
+      "home": "Levante",
+      "away": "Atlético",
+      "odds": {
+        "home": 5.32,
+        "draw": 4.51,
+        "away": 1.53
+      }
+    },
+    {
+      "kickoff": "2026-10-31T16:15:00+01:00",
+      "date": "2026-10-31",
+      "home": "Rayo Vallecano",
+      "away": "Celta",
+      "odds": {
+        "home": 2.37,
+        "draw": 3.26,
+        "away": 2.99
+      }
+    },
+    {
+      "kickoff": "2026-10-31T18:30:00+01:00",
+      "date": "2026-10-31",
+      "home": "Betis",
+      "away": "Málaga",
+      "odds": {
+        "home": 1.33,
+        "draw": 5.36,
+        "away": 8.03
+      }
+    },
+    {
+      "kickoff": "2026-10-31T21:00:00+01:00",
+      "date": "2026-10-31",
+      "home": "Barcelona",
+      "away": "Alavés",
+      "odds": {
+        "home": 1.1,
+        "draw": 10.39,
+        "away": 19.56
+      }
+    },
+    {
+      "kickoff": "2026-11-01T14:00:00+01:00",
+      "date": "2026-11-01",
+      "home": "Getafe",
+      "away": "Sevilla",
+      "odds": {
+        "home": 3.09,
+        "draw": 2.96,
+        "away": 2.45
+      }
+    },
+    {
+      "kickoff": "2026-11-01T16:15:00+01:00",
+      "date": "2026-11-01",
+      "home": "Santander",
+      "away": "Real Madrid",
+      "odds": {
+        "home": 9.92,
+        "draw": 7.27,
+        "away": 1.21
+      }
+    },
+    {
+      "kickoff": "2026-11-01T18:30:00+01:00",
+      "date": "2026-11-01",
+      "home": "Elche",
+      "away": "Valencia",
+      "odds": {
+        "home": 2.3,
+        "draw": 3.33,
+        "away": 3.01
+      }
+    },
+    {
+      "kickoff": "2026-11-01T21:00:00+01:00",
+      "date": "2026-11-01",
+      "home": "Athletic",
+      "away": "Real Sociedad",
+      "odds": {
+        "home": 2.12,
+        "draw": 3.58,
+        "away": 3.14
+      }
+    },
+    {
+      "kickoff": "2026-11-02T21:00:00+01:00",
+      "date": "2026-11-02",
+      "home": "Deportivo",
+      "away": "Osasuna",
+      "odds": {
+        "home": 2.13,
+        "draw": 3.22,
+        "away": 3.42
+      }
+    }
+  ]
+}
