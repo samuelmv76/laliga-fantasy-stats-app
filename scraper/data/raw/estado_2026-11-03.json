@@ -1,0 +1,537 @@
+{
+  "date": "2026-11-03",
+  "players": [
+    {
+      "slug": "14045",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja hasta abril",
+      "playProbability": 0
+    },
+    {
+      "slug": "16186",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja hasta abril",
+      "playProbability": 0
+    },
+    {
+      "slug": "5859",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja hasta mayo",
+      "playProbability": 0
+    },
+    {
+      "slug": "11676",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja hasta enero 2027",
+      "playProbability": 0
+    },
+    {
+      "slug": "44",
+      "status": "lesion",
+      "note": "Lesión en los isquiotibiales",
+      "until": "Baja hasta mediados de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "13830",
+      "status": "lesion",
+      "note": "Lesión en los isquiotibiales",
+      "until": "Baja hasta finales de diciembre",
+      "playProbability": 10
+    },
+    {
+      "slug": "12647",
+      "status": "duda",
+      "note": "Lesión muscular en el muslo",
+      "until": "Baja hasta principios de noviembre",
+      "playProbability": 30
+    },
+    {
+      "slug": "6310",
+      "status": "duda",
+      "note": "Molestias sin determinar",
+      "until": "Duda para la jornada 12",
+      "playProbability": 50
+    },
+    {
+      "slug": "63",
+      "status": null,
+      "note": "Lesión en el bíceps femoral",
+      "until": "Baja hasta principios de noviembre",
+      "playProbability": 40
+    },
+    {
+      "slug": "16765",
+      "status": "lesion",
+      "note": "Lesión de tobillo",
+      "until": "Baja hasta mediados de diciembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "10658",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja hasta marzo",
+      "playProbability": 0
+    },
+    {
+      "slug": "2288",
+      "status": "lesion",
+      "note": "Rotura fibrilar en el aductor",
+      "until": "Baja hasta mediadios de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "2417",
+      "status": "duda",
+      "note": "Rotura en el recto anterior",
+      "until": "Baja hasta principios de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "6674",
+      "status": "duda",
+      "note": "Esguince de tobillo",
+      "until": "Duda para la jornada 12",
+      "playProbability": 40
+    },
+    {
+      "slug": "7542",
+      "status": "duda",
+      "note": "Lesión en el recto anterior",
+      "until": "Baja hasta principios de noviembre",
+      "playProbability": 30
+    },
+    {
+      "slug": "5546",
+      "status": "lesion",
+      "note": "Lesión en el sóleo",
+      "until": "Baja hasta finales de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "4620",
+      "status": null,
+      "note": "Lesión en el aductor",
+      "until": "Disponible para la jornada 12",
+      "playProbability": 30
+    },
+    {
+      "slug": "9612",
+      "status": "lesion",
+      "note": "Lesión en el semimembranoso",
+      "until": "Baja hasta mediados de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "1945",
+      "status": "lesion",
+      "note": "Lesión en el sóleo",
+      "until": "Baja hasta finales de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "11767",
+      "status": "lesion",
+      "note": "Rotura fibrilar en el aductor",
+      "until": "Baja hasta mediados de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "14980",
+      "status": "lesion",
+      "note": "Sometido a artroscopia en la rodilla",
+      "until": "Baja confirmada para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "13808",
+      "status": "duda",
+      "note": "Sometido a artroscopia en la rodilla",
+      "until": "Baja hasta principios de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "9744",
+      "status": "duda",
+      "note": "Molestias sin determinar",
+      "until": "Duda para la jornada 12",
+      "playProbability": 40
+    },
+    {
+      "slug": "18030",
+      "status": "lesion",
+      "note": "Lesión en el bíceps femoral",
+      "until": "Baja confirmada para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "10217",
+      "status": "duda",
+      "note": "Fractura de clavícula",
+      "until": "Duda para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "15164",
+      "status": "duda",
+      "note": "Fractura de muñeca",
+      "until": "Duda para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "10358",
+      "status": "lesion",
+      "note": "Lesión de tobillo",
+      "until": "Baja hasta mediados de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "3427",
+      "status": "duda",
+      "note": "Molestias en el aductor",
+      "until": "Duda para la jornada 12",
+      "playProbability": 10
+    },
+    {
+      "slug": "9850",
+      "status": "lesion",
+      "note": "Molestias en el aductor",
+      "until": "Baja confirmada para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "2751",
+      "status": "lesion",
+      "note": "Rotura completa del tendón proximal del bíceps femoral",
+      "until": "Baja hasta diciembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "340",
+      "status": "lesion",
+      "note": "Lesión de rodilla",
+      "until": "Baja hasta noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "13780",
+      "status": "lesion",
+      "note": "Rotura de ligamento cruzado y menisco",
+      "until": "Baja hasta mayo 2027",
+      "playProbability": 0
+    },
+    {
+      "slug": "14210",
+      "status": "lesion",
+      "note": "Lesión en el cuádriceps",
+      "until": "Baja confirmada para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "18006",
+      "status": "duda",
+      "note": "Lesión en los isquiotibiales",
+      "until": "Duda para la jornada 12",
+      "playProbability": 20
+    },
+    {
+      "slug": "6605",
+      "status": "duda",
+      "note": "Lesión en los isquiotibiales",
+      "until": "Duda para la jornada 12",
+      "playProbability": 50
+    },
+    {
+      "slug": "7686",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja hasta abril",
+      "playProbability": 0
+    },
+    {
+      "slug": "13984",
+      "status": "lesion",
+      "note": "Rotura de menisco",
+      "until": "Baja hasta enero",
+      "playProbability": 0
+    },
+    {
+      "slug": "6050",
+      "status": "duda",
+      "note": "Lesión en el sóleo",
+      "until": "Duda para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "7614",
+      "status": "duda",
+      "note": "Fascitis plantar",
+      "until": "Duda para la jornada 12",
+      "playProbability": 30
+    },
+    {
+      "slug": "10823",
+      "status": "duda",
+      "note": "Molestias en el bíceps femoral",
+      "until": "Duda para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "15417",
+      "status": null,
+      "note": "Proceso viral",
+      "until": "Disponible para la jornada 12",
+      "playProbability": 80
+    },
+    {
+      "slug": "7082",
+      "status": "lesion",
+      "note": "Lesión en el aductor",
+      "until": "Baja hasta noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "7203",
+      "status": "lesion",
+      "note": "Lesión en los isquiotibiales",
+      "until": "Baja hasta mediados de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "8485",
+      "status": "duda",
+      "note": "Lesión en el aductor",
+      "until": "Duda para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "10336",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja hasta junio",
+      "playProbability": 0
+    },
+    {
+      "slug": "6890",
+      "status": "duda",
+      "note": "Molestias sin determinar",
+      "until": "Duda para la jornada 12",
+      "playProbability": 50
+    },
+    {
+      "slug": "5705",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja hasta agosto",
+      "playProbability": 0
+    },
+    {
+      "slug": "12651",
+      "status": "lesion",
+      "note": "Fractura de tibia",
+      "until": "Baja hasta enero",
+      "playProbability": 0
+    },
+    {
+      "slug": "7100",
+      "status": "duda",
+      "note": "Molestias sin determinar",
+      "until": "Duda para la jornada 12",
+      "playProbability": 20
+    },
+    {
+      "slug": "867",
+      "status": "duda",
+      "note": "Molestias en los isquiotibiales",
+      "until": "Duda para la jornada 12",
+      "playProbability": 30
+    },
+    {
+      "slug": "6889",
+      "status": "duda",
+      "note": "Contusión en la rodilla",
+      "until": "Duda para la jornada 12",
+      "playProbability": 30
+    },
+    {
+      "slug": "12639",
+      "status": "lesion",
+      "note": "Operado de la tibia",
+      "until": "Baja hasta diciembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "6631",
+      "status": "lesion",
+      "note": "Rotura de ligamento cruzado y menisco",
+      "until": "Baja hasta noviembre-diciembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "3758",
+      "status": null,
+      "note": "Molestias en los isquiotibiales",
+      "until": "Disponible para la jornada 12",
+      "playProbability": 70
+    },
+    {
+      "slug": "6158",
+      "status": null,
+      "note": "Lesión en el recto femoral",
+      "until": "Disponible para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "2807",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja confirmada para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "9011",
+      "status": "lesion",
+      "note": "Lesión de tobillo",
+      "until": "Baja confirmada para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "15273",
+      "status": "duda",
+      "note": "Esguince de tobillo",
+      "until": "Duda para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "16236",
+      "status": "lesion",
+      "note": "Luxación acromioclavicular",
+      "until": "Baja hasta enero",
+      "playProbability": 0
+    },
+    {
+      "slug": "11680",
+      "status": "duda",
+      "note": "Contusión en la rodilla",
+      "until": "Duda para la jornada 12",
+      "playProbability": 30
+    },
+    {
+      "slug": "4208",
+      "status": "duda",
+      "note": "Lesión en el recto anterior",
+      "until": "Baja hasta principios de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "9670",
+      "status": null,
+      "note": "Molestias en la cadera",
+      "until": "Disponible para la jornada 12",
+      "playProbability": 95
+    },
+    {
+      "slug": "9201",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja hasta diciembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "9304",
+      "status": "lesion",
+      "note": "Rotura de lig. cruzado anterior",
+      "until": "Baja hasta diciembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "18283",
+      "status": "lesion",
+      "note": "Esguince de rodilla",
+      "until": "Baja hasta finales de noviembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "12594",
+      "status": "lesion",
+      "note": "Lesión en los isquiotibiales",
+      "until": "Baja hasta principios de diciembre",
+      "playProbability": 0
+    },
+    {
+      "slug": "9234",
+      "status": "duda",
+      "note": "Rotura de menisco",
+      "until": "Duda para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "6665",
+      "status": null,
+      "note": "Fatiga muscular",
+      "until": "Disponible para la jornada 12",
+      "playProbability": 70
+    },
+    {
+      "slug": "14022",
+      "status": "duda",
+      "note": "Molestias musculares",
+      "until": "Duda para la jornada 12",
+      "playProbability": 0
+    },
+    {
+      "slug": "843",
+      "status": "duda",
+      "note": "Molestias sin determinar",
+      "until": "Duda para la jornada 12",
+      "playProbability": 30
+    },
+    {
+      "slug": "4705",
+      "status": "duda",
+      "note": "Molestias musculares",
+      "until": "Duda para la jornada 12",
+      "playProbability": 40
+    },
+    {
+      "slug": "9763",
+      "status": "duda",
+      "note": "Molestias sin determinar",
+      "until": "Duda para la jornada 12",
+      "playProbability": 10
+    },
+    {
+      "slug": "15736",
+      "status": "sancion",
+      "note": "Sanción disciplinaria (3/4)",
+      "until": null,
+      "playProbability": 0
+    },
+    {
+      "slug": "15316",
+      "status": "sancion",
+      "note": "Acumulación de tarjetas 1r ciclo J11 J9 J8 J5 J3",
+      "until": null,
+      "playProbability": 0
+    },
+    {
+      "slug": "5565",
+      "status": "sancion",
+      "note": "Sanción disciplinaria (4/4)",
+      "until": null,
+      "playProbability": 0
+    },
+    {
+      "slug": "11180",
+      "status": "sancion",
+      "note": "Roja directa",
+      "until": null,
+      "playProbability": 0
+    }
+  ]
+}

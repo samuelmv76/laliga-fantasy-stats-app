@@ -229,17 +229,6 @@
   ],
   "Deportivo": [
     {
-      "matchday": 11,
-      "opponent": "Osasuna",
-      "home": true,
-      "kickoff": "2026-11-02T21:00:00+01:00",
-      "odds": {
-        "home": 2.13,
-        "draw": 3.22,
-        "away": 3.42
-      }
-    },
-    {
       "matchday": 12,
       "opponent": "Espanyol",
       "home": false,
@@ -268,6 +257,12 @@
       "opponent": "Athletic",
       "home": true,
       "kickoff": "2026-12-13T20:00:00+01:00"
+    },
+    {
+      "matchday": 17,
+      "opponent": "Real Madrid",
+      "home": true,
+      "kickoff": "2026-12-20T20:00:00+01:00"
     }
   ],
   "Elche": [
@@ -462,17 +457,6 @@
   ],
   "Osasuna": [
     {
-      "matchday": 11,
-      "opponent": "Deportivo",
-      "home": false,
-      "kickoff": "2026-11-02T21:00:00+01:00",
-      "odds": {
-        "home": 2.13,
-        "draw": 3.22,
-        "away": 3.42
-      }
-    },
-    {
       "matchday": 12,
       "opponent": "Athletic",
       "home": true,
@@ -501,6 +485,12 @@
       "opponent": "Real Madrid",
       "home": false,
       "kickoff": "2026-12-13T20:00:00+01:00"
+    },
+    {
+      "matchday": 17,
+      "opponent": "Villarreal",
+      "home": true,
+      "kickoff": "2026-12-20T20:00:00+01:00"
     }
   ],
   "Racing": [
