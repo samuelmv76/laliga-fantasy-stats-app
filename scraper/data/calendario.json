@@ -16,7 +16,7 @@
       "matchday": 15,
       "opponent": "Espanyol",
       "home": true,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-04T21:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -54,7 +54,7 @@
       "matchday": 15,
       "opponent": "Real Madrid",
       "home": true,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-06T16:15:00+01:00"
     },
     {
       "matchday": 16,
@@ -98,7 +98,7 @@
       "matchday": 15,
       "opponent": "Betis",
       "home": true,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-06T21:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -136,7 +136,7 @@
       "matchday": 15,
       "opponent": "Celta",
       "home": true,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-05T21:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -168,7 +168,7 @@
       "matchday": 15,
       "opponent": "Atlético",
       "home": false,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-06T21:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -206,7 +206,7 @@
       "matchday": 15,
       "opponent": "Barcelona",
       "home": false,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-05T21:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -244,7 +244,7 @@
       "matchday": 15,
       "opponent": "Racing",
       "home": false,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-05T14:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -282,7 +282,7 @@
       "matchday": 15,
       "opponent": "Osasuna",
       "home": false,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-06T14:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -320,7 +320,7 @@
       "matchday": 15,
       "opponent": "Alavés",
       "home": false,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-04T21:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -358,7 +358,7 @@
       "matchday": 15,
       "opponent": "Valencia",
       "home": true,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-06T18:30:00+01:00"
     },
     {
       "matchday": 16,
@@ -396,7 +396,7 @@
       "matchday": 15,
       "opponent": "Rayo",
       "home": false,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-05T16:15:00+01:00"
     },
     {
       "matchday": 16,
@@ -434,7 +434,7 @@
       "matchday": 15,
       "opponent": "Sevilla",
       "home": false,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-07T21:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -472,7 +472,7 @@
       "matchday": 15,
       "opponent": "Elche",
       "home": true,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-06T14:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -510,7 +510,7 @@
       "matchday": 15,
       "opponent": "Deportivo",
       "home": true,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-05T14:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -548,7 +548,7 @@
       "matchday": 15,
       "opponent": "Levante",
       "home": true,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-05T16:15:00+01:00"
     },
     {
       "matchday": 16,
@@ -592,7 +592,7 @@
       "matchday": 15,
       "opponent": "Athletic",
       "home": false,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-06T16:15:00+01:00"
     },
     {
       "matchday": 16,
@@ -630,7 +630,7 @@
       "matchday": 15,
       "opponent": "Villarreal",
       "home": false,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-05T18:30:00+01:00"
     },
     {
       "matchday": 16,
@@ -662,7 +662,7 @@
       "matchday": 15,
       "opponent": "Málaga",
       "home": true,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-07T21:00:00+01:00"
     },
     {
       "matchday": 16,
@@ -700,7 +700,7 @@
       "matchday": 15,
       "opponent": "Getafe",
       "home": false,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-06T18:30:00+01:00"
     },
     {
       "matchday": 16,
@@ -738,7 +738,7 @@
       "matchday": 15,
       "opponent": "Real Sociedad",
       "home": true,
-      "kickoff": "2026-12-06T20:00:00+01:00"
+      "kickoff": "2026-12-05T18:30:00+01:00"
     },
     {
       "matchday": 16,
