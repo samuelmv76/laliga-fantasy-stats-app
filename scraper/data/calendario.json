@@ -77,17 +77,6 @@
   ],
   "Atlético": [
     {
-      "matchday": 13,
-      "opponent": "Getafe",
-      "home": false,
-      "kickoff": "2026-11-22T21:00:00+01:00",
-      "odds": {
-        "home": 5.87,
-        "draw": 3.86,
-        "away": 1.56
-      }
-    },
-    {
       "matchday": 14,
       "opponent": "Elche",
       "home": false,
@@ -116,20 +105,15 @@
       "opponent": "Celta",
       "home": false,
       "kickoff": "2026-12-20T20:00:00+01:00"
+    },
+    {
+      "matchday": 18,
+      "opponent": "Rayo",
+      "home": false,
+      "kickoff": "2027-01-03T20:00:00+01:00"
     }
   ],
   "Barcelona": [
-    {
-      "matchday": 13,
-      "opponent": "Villarreal",
-      "home": true,
-      "kickoff": "2026-11-22T14:00:00+01:00",
-      "odds": {
-        "home": 1.2,
-        "draw": 7.34,
-        "away": 10.31
-      }
-    },
     {
       "matchday": 14,
       "opponent": "Deportivo",
@@ -159,6 +143,12 @@
       "opponent": "Real Sociedad",
       "home": true,
       "kickoff": "2026-12-20T20:00:00+01:00"
+    },
+    {
+      "matchday": 18,
+      "opponent": "Espanyol",
+      "home": false,
+      "kickoff": "2027-01-03T20:00:00+01:00"
     }
   ],
   "Betis": [
@@ -358,17 +348,6 @@
   ],
   "Getafe": [
     {
-      "matchday": 13,
-      "opponent": "Atlético",
-      "home": true,
-      "kickoff": "2026-11-22T21:00:00+01:00",
-      "odds": {
-        "home": 5.87,
-        "draw": 3.86,
-        "away": 1.56
-      }
-    },
-    {
       "matchday": 14,
       "opponent": "Espanyol",
       "home": false,
@@ -397,6 +376,12 @@
       "opponent": "Real Madrid",
       "home": false,
       "kickoff": "2027-01-03T20:00:00+01:00"
+    },
+    {
+      "matchday": 19,
+      "opponent": "Elche",
+      "home": false,
+      "kickoff": "2027-01-10T20:00:00+01:00"
     }
   ],
   "Levante": [
@@ -444,17 +429,6 @@
   ],
   "Málaga": [
     {
-      "matchday": 13,
-      "opponent": "Osasuna",
-      "home": false,
-      "kickoff": "2026-11-22T18:30:00+01:00",
-      "odds": {
-        "home": 1.8,
-        "draw": 3.53,
-        "away": 4.38
-      }
-    },
-    {
       "matchday": 14,
       "opponent": "Athletic",
       "home": true,
@@ -483,20 +457,15 @@
       "opponent": "Elche",
       "home": true,
       "kickoff": "2027-01-03T20:00:00+01:00"
+    },
+    {
+      "matchday": 19,
+      "opponent": "Valencia",
+      "home": false,
+      "kickoff": "2027-01-10T20:00:00+01:00"
     }
   ],
   "Osasuna": [
-    {
-      "matchday": 13,
-      "opponent": "Málaga",
-      "home": true,
-      "kickoff": "2026-11-22T18:30:00+01:00",
-      "odds": {
-        "home": 1.8,
-        "draw": 3.53,
-        "away": 4.38
-      }
-    },
     {
       "matchday": 14,
       "opponent": "Valencia",
@@ -526,15 +495,15 @@
       "opponent": "Real Sociedad",
       "home": false,
       "kickoff": "2027-01-03T20:00:00+01:00"
+    },
+    {
+      "matchday": 19,
+      "opponent": "Barcelona",
+      "home": true,
+      "kickoff": "2027-01-10T20:00:00+01:00"
     }
   ],
   "Racing": [
-    {
-      "matchday": 13,
-      "opponent": "Real Sociedad",
-      "home": true,
-      "kickoff": "2026-11-22T16:15:00+01:00"
-    },
     {
       "matchday": 14,
       "opponent": "Levante",
@@ -564,6 +533,12 @@
       "opponent": "Athletic",
       "home": true,
       "kickoff": "2027-01-03T20:00:00+01:00"
+    },
+    {
+      "matchday": 19,
+      "opponent": "Atlético",
+      "home": false,
+      "kickoff": "2027-01-10T20:00:00+01:00"
     }
   ],
   "Rayo": [
@@ -644,12 +619,6 @@
   ],
   "Real Sociedad": [
     {
-      "matchday": 13,
-      "opponent": "Racing",
-      "home": false,
-      "kickoff": "2026-11-22T16:15:00+01:00"
-    },
-    {
       "matchday": 14,
       "opponent": "Sevilla",
       "home": true,
@@ -678,6 +647,12 @@
       "opponent": "Barcelona",
       "home": false,
       "kickoff": "2026-12-20T20:00:00+01:00"
+    },
+    {
+      "matchday": 18,
+      "opponent": "Osasuna",
+      "home": true,
+      "kickoff": "2027-01-03T20:00:00+01:00"
     }
   ],
   "Sevilla": [
@@ -758,17 +733,6 @@
   ],
   "Villarreal": [
     {
-      "matchday": 13,
-      "opponent": "Barcelona",
-      "home": false,
-      "kickoff": "2026-11-22T14:00:00+01:00",
-      "odds": {
-        "home": 1.2,
-        "draw": 7.34,
-        "away": 10.31
-      }
-    },
-    {
       "matchday": 14,
       "opponent": "Celta",
       "home": false,
@@ -797,6 +761,12 @@
       "opponent": "Sevilla",
       "home": true,
       "kickoff": "2027-01-03T20:00:00+01:00"
+    },
+    {
+      "matchday": 19,
+      "opponent": "Athletic",
+      "home": false,
+      "kickoff": "2027-01-10T20:00:00+01:00"
     }
   ]
 }
